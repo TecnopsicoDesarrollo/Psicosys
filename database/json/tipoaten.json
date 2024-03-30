@@ -1,0 +1,92 @@
+[
+ {
+  "codigo": "01",
+  "nomtipo": "CONSULTA EXTERNA",
+  "rip": "C",
+  "bodega": null
+ },
+ {
+  "codigo": "02",
+  "nomtipo": "HOSPITALIZACION",
+  "rip": "H",
+  "bodega": null
+ },
+ {
+  "codigo": "03",
+  "nomtipo": "HOSPITAL DIA",
+  "rip": "H",
+  "bodega": null
+ },
+ {
+  "codigo": "04",
+  "nomtipo": "URGENCIA BASICA",
+  "rip": "U",
+  "bodega": null
+ },
+ {
+  "codigo": "05",
+  "nomtipo": "URGENCIA CON OBSERVACION",
+  "rip": "U",
+  "bodega": null
+ },
+ {
+  "codigo": "06",
+  "nomtipo": "SERVICIO DOMICILIARIO",
+  "rip": "C",
+  "bodega": null
+ },
+ {
+  "codigo": "07",
+  "nomtipo": "CIRUGUA",
+  "rip": "P",
+  "bodega": null
+ },
+ {
+  "codigo": "08",
+  "nomtipo": "IMAGENOLOGIA",
+  "rip": "P",
+  "bodega": null
+ },
+ {
+  "codigo": "09",
+  "nomtipo": "LABORATORIO",
+  "rip": "P",
+  "bodega": null
+ },
+ {
+  "codigo": "10",
+  "nomtipo": "TERAPIA",
+  "rip": "P",
+  "bodega": null
+ },
+ {
+  "codigo": "11",
+  "nomtipo": "DISPENSACION",
+  "rip": "O",
+  "bodega": null
+ },
+ {
+  "codigo": "12",
+  "nomtipo": "C. E. FACTURADA",
+  "rip": "C",
+  "bodega": null
+ },
+ {
+  "codigo": "13",
+  "nomtipo": "C. E. LABORAL",
+  "rip": "C",
+  "bodega": null
+ },
+ {
+  "codigo": "14",
+  "nomtipo": "TERAPIA DOMICILIARIA",
+  "rip": null,
+  "bodega": "001"
+ },
+ {
+  "codigo": "99",
+  "nomtipo": "PAQUETE CONSULTA",
+  "rip": "C",
+  "bodega": null
+ }
+]

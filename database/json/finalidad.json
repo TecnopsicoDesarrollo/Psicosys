@@ -1,0 +1,42 @@
+[
+ {
+  "codigo": "01",
+  "finalidad": "ATENCION DEL PARTO (PUERPERIO)"
+ },
+ {
+  "codigo": "02",
+  "finalidad": "ATENCION DEL RECIEN NACIDO"
+ },
+ {
+  "codigo": "03",
+  "finalidad": "ATENCION EN PLANIFICACION FAMILIAR"
+ },
+ {
+  "codigo": "04",
+  "finalidad": "ALTERACIONES CRECIMIENTO Y DESARROLLO MENOR 10 AÑOS"
+ },
+ {
+  "codigo": "05",
+  "finalidad": "ALTERACION DEL DESARROLLO DEL JOVEN"
+ },
+ {
+  "codigo": "06",
+  "finalidad": "DETECCION DE ALTERACIONES DEL EMBARAZO"
+ },
+ {
+  "codigo": "07",
+  "finalidad": "DETECCION DE ALTERACIONES DEL ADULTO"
+ },
+ {
+  "codigo": "08",
+  "finalidad": "DETECCION ALTERACIONES DE AGUDEZA VISUAL"
+ },
+ {
+  "codigo": "09",
+  "finalidad": "DETECCION DE ENFERMEDAD PROFESIONAL"
+ },
+ {
+  "codigo": "10",
+  "finalidad": "NO APLICA"
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "codigo": "01",
+  "tipovinc": "CONTRIBUTIVO"
+ },
+ {
+  "codigo": "02",
+  "tipovinc": "SUBSIDIADO"
+ },
+ {
+  "codigo": "03",
+  "tipovinc": "VINCULADO"
+ },
+ {
+  "codigo": "04",
+  "tipovinc": "PARTICULAR"
+ },
+ {
+  "codigo": "05",
+  "tipovinc": "OTRO"
+ },
+ {
+  "codigo": "06",
+  "tipovinc": "DESPLAZADO CON AFILIACION AL REGIMEN CON"
+ },
+ {
+  "codigo": "07",
+  "tipovinc": "DESPLAZADO CON AFILIACION AL REGIMEN SUB"
+ },
+ {
+  "codigo": "08",
+  "tipovinc": "DESPLAZADO NO ASEGURADO (VINCULADO)"
+ }
+]

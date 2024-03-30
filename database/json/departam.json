@@ -1,0 +1,172 @@
+[
+	{
+		"codigo" : "05",
+		"dpto" : "Antioquia",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "08",
+		"dpto" : "Atlántico",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "11",
+		"dpto" : "Bogotá D.C",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "13",
+		"dpto" : "Bolívar",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "15",
+		"dpto" : "Boyacá",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "17",
+		"dpto" : "Caldas",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "18",
+		"dpto" : "Caquetá",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "19",
+		"dpto" : "Cauca",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "20",
+		"dpto" : "Cesar",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "23",
+		"dpto" : "Córdoba",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "25",
+		"dpto" : "Cundinamarca",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "27",
+		"dpto" : "Chocó",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "41",
+		"dpto" : "Huila",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "44",
+		"dpto" : "La Guajira",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "47",
+		"dpto" : "Magdalena",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "50",
+		"dpto" : "Meta",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "52",
+		"dpto" : "Nariño",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "54",
+		"dpto" : "Norte de Santander",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "63",
+		"dpto" : "Quindio",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "66",
+		"dpto" : "Risaralda",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "68",
+		"dpto" : "Santander",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "70",
+		"dpto" : "Sucre",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "73",
+		"dpto" : "Tolima",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "76",
+		"dpto" : "Valle del Cauca",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "81",
+		"dpto" : "Arauca",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "85",
+		"dpto" : "Casanare",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "86",
+		"dpto" : "Putumayo",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "88",
+		"dpto" : "Archipiélago de San Andrés, Providencia y Santa Ca",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "91",
+		"dpto" : "Amazonas",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "94",
+		"dpto" : "Guainía",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "95",
+		"dpto" : "Guaviare",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "97",
+		"dpto" : "Vaupés",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "99",
+		"dpto" : "Vichada",
+		"trial332" : "T"
+	},
+	{
+		"codigo" : "01",
+		"dpto" : "QUITO, ECUADOR",
+		"trial332" : "T"
+	}
+]

@@ -1,0 +1,478 @@
+[
+ {
+  "codigo": "010",
+  "nombre": "FISICOS, QUIMICOS Y TECNICOS ASIMILADOS"
+ },
+ {
+  "codigo": "011",
+  "nombre": "CODIGO 1"
+ },
+ {
+  "codigo": "011",
+  "nombre": "ENTRENADOR"
+ },
+ {
+  "codigo": "012",
+  "nombre": "INGENIERO FORESTAL"
+ },
+ {
+  "codigo": "013",
+  "nombre": "RECTOR DE COLEGIO"
+ },
+ {
+  "codigo": "014",
+  "nombre": "NO APLICA"
+ },
+ {
+  "codigo": "015",
+  "nombre": "INDEPENDIENTE"
+ },
+ {
+  "codigo": "016",
+  "nombre": "DOCENTE"
+ },
+ {
+  "codigo": "020",
+  "nombre": "ARQUITECTOS E INGENIEROS DE CUALQUIER AREA"
+ },
+ {
+  "codigo": "025",
+  "nombre": "OCUPACION DE LAS PERSONAS DESEMPLEADAS QUE SE ENCUENTRAN TIRADOS EN UN PARQ"
+ },
+ {
+  "codigo": "030",
+  "nombre": "TECNICOS EN INGENIERIA, MECANICA, MINERIA, ELECTRONICA, METALURGIA Y OTROS"
+ },
+ {
+  "codigo": "041",
+  "nombre": "PILOTOS,  OFICIALES, MECANICOS DE AVIACION, CONTROLADORES DEL TRAFICO AER"
+ },
+ {
+  "codigo": "042",
+  "nombre": "PILOTOS Y  OFICIALES DE CUBIERTA Y MAQUINISTAS (Navegaci¾n marÝtima y flu"
+ },
+ {
+  "codigo": "043",
+  "nombre": "OFICIOS VARIOS"
+ },
+ {
+  "codigo": "044",
+  "nombre": "FINQUERO"
+ },
+ {
+  "codigo": "051",
+  "nombre": "BIOLOGOS Y TECNICOS EN CIENCIAS BIOLOGICAS"
+ },
+ {
+  "codigo": "052",
+  "nombre": "BACTERIOLOGOS"
+ },
+ {
+  "codigo": "053",
+  "nombre": "ZOOLOGOS"
+ },
+ {
+  "codigo": "054",
+  "nombre": "FARMACOLOGOS, FARMACEUTICOS, ESPECIALISTAS ASIMILADOS Y SUS ASISTENTES"
+ },
+ {
+  "codigo": "055",
+  "nombre": "AGRONOMOS Y ESPECIALISTAS ASIMILADOS"
+ },
+ {
+  "codigo": "061",
+  "nombre": "MEDICOS"
+ },
+ {
+  "codigo": "062",
+  "nombre": "ODONTOLOGOS"
+ },
+ {
+  "codigo": "063",
+  "nombre": "VETERINARIOS"
+ },
+ {
+  "codigo": "064",
+  "nombre": "MEDICOS, ODONTOLOGOS Y  VETERINARIOS"
+ },
+ {
+  "codigo": "065",
+  "nombre": "RADIOLOGOS Y OTROS PROFESIONALES QUE REALIZAN PROCEDIMIENTOS DE RADIODIAG"
+ },
+ {
+  "codigo": "066",
+  "nombre": "MEDICOS Y ASISTENTES DE QUIMIOTERAPIA Y RADIOTERAPIA"
+ },
+ {
+  "codigo": "067",
+  "nombre": "NUTRICIONISTAS Y OTRO PERSONAL DE LA SALUD"
+ },
+ {
+  "codigo": "070",
+  "nombre": "OPTOMETRAS"
+ },
+ {
+  "codigo": "071",
+  "nombre": "FISIOTERAPEUTAS"
+ },
+ {
+  "codigo": "072",
+  "nombre": "ENFERMEROS Y AUXILIARES DE ENFERMERIA"
+ },
+ {
+  "codigo": "079",
+  "nombre": "OTRO PERSONAL DEL AREA DE LA SALUD NO CLASIFICADO EN OTRA PARTE"
+ },
+ {
+  "codigo": "080",
+  "nombre": "ESTADISTICOS, MATEMATICOS, ECONOMISTAS, CONTADORES, JEFES, EMPLEADOS DE O"
+ },
+ {
+  "codigo": "105",
+  "nombre": "TECNICO EN ANALISIS Y PROGRAMACION"
+ },
+ {
+  "codigo": "120",
+  "nombre": "MIEMBROS CUERPO LEGISLATIVO, ABOGADOS, JUECES Y OTROS JURISTAS Y PERSONAL"
+ },
+ {
+  "codigo": "130",
+  "nombre": "PROFESORES Y EDUCADORES"
+ },
+ {
+  "codigo": "140",
+  "nombre": "MIEMBROS DEL CLERO Y ASIMILADOS"
+ },
+ {
+  "codigo": "150",
+  "nombre": "ESCRITORES, PERIODISTAS Y ASIMILADOS"
+ },
+ {
+  "codigo": "160",
+  "nombre": "ESCULTORES, PINTORES, DECORADORES Y FOTOGRAFOS"
+ },
+ {
+  "codigo": "161",
+  "nombre": "SECRETARIA"
+ },
+ {
+  "codigo": "162",
+  "nombre": "AMA DE CASA"
+ },
+ {
+  "codigo": "163",
+  "nombre": "AUXILIAR ADMINISTRATIVO"
+ },
+ {
+  "codigo": "170",
+  "nombre": "MUSICOS, ACTORES, DIRECTORES DE ESPECTACULO Y OTROS ASIMILADOS"
+ },
+ {
+  "codigo": "180",
+  "nombre": "DEPORTISTAS Y TRABAJADORES ASIMILADOS"
+ },
+ {
+  "codigo": "190",
+  "nombre": "OTROS PROFESIONALES-TECNICOS: BIBLIOTECOLOGO, RESTAURADOR, SOCIOANTROPOLO"
+ },
+ {
+  "codigo": "199",
+  "nombre": "OTROS PROFESIONALES Y TECNICOS NO DESCRITOS EN OTROS EPIGRAFES"
+ },
+ {
+  "codigo": "330",
+  "nombre": "CAJEROS Y TRABAJADORES EN INSTITUCIONES BANCARIAS Y ASIMILADAS"
+ },
+ {
+  "codigo": "350",
+  "nombre": "JEFE DE SERVICIOS DE TRANSPORTE (Ferrocarril, Correos) Y COMUNICACIONES"
+ },
+ {
+  "codigo": "370",
+  "nombre": "CARTEROS, MENSAJEROS Y VENDEDORES PUERTA A PUERTA, A DOMICILIO Y DE PERIO"
+ },
+ {
+  "codigo": "380",
+  "nombre": "TELEFONISTAS"
+ },
+ {
+  "codigo": "390",
+  "nombre": "OTRO PERSONAL ADMINISTRATIVO Y TRABAJADORES ASIMILADOS"
+ },
+ {
+  "codigo": "400",
+  "nombre": "DIRECTORES Y ADMINISTRADORES DE COMERCIO AL MAYOR Y DETAL"
+ },
+ {
+  "codigo": "420",
+  "nombre": "JEFES DE VENTAS Y COMPRADORES"
+ },
+ {
+  "codigo": "430",
+  "nombre": "AGENTES DE VENTAS Y REPRESENTANTES DE FABRICA"
+ },
+ {
+  "codigo": "440",
+  "nombre": "AGENTES: DE SEGUROS, INMOBILIARIAS, CAMBIO Y BOLSA, SERVICIOS"
+ },
+ {
+  "codigo": "450",
+  "nombre": "VENDEDORES, EMPLEADOS DE COMERCIO Y DE MOSTRADOR, TENDEROS"
+ },
+ {
+  "codigo": "490",
+  "nombre": "OTROS VENDEDORES Y COMERCIANTES NO CLASIFICADOS"
+ },
+ {
+  "codigo": "499",
+  "nombre": "VENDEDORES AMBULANTES - TRABAJADOR DE LA CALLE (Sector informal)"
+ },
+ {
+  "codigo": "500",
+  "nombre": "DIRECTORES Y GERENTES  DE HOTELES, BARES Y SIMILARES"
+ },
+ {
+  "codigo": "520",
+  "nombre": "JEFES DE PERSONAL DE SERVIDUMBRE"
+ },
+ {
+  "codigo": "530",
+  "nombre": "COCINEROS, CAMAREROS, CANTINERO Y TRABAJADORES SIMILARES"
+ },
+ {
+  "codigo": "540",
+  "nombre": "PERSONAL DE SERVIDUMBRE NO CLASIFICADO EN OTRA PARTE, ASCENSORISTAS"
+ },
+ {
+  "codigo": "550",
+  "nombre": "CELADORES Y VIGILANTES"
+ },
+ {
+  "codigo": "560",
+  "nombre": "LAVANDEROS, PERSONAL DE LIMPIEZA, LIMPIEZA EN SECO Y PLANCHADORES"
+ },
+ {
+  "codigo": "570",
+  "nombre": "PELUQUEROS, ESTILISTAS Y ASIMILADOS"
+ },
+ {
+  "codigo": "581",
+  "nombre": "BOMBEROS"
+ },
+ {
+  "codigo": "582",
+  "nombre": "MIEMBROS DE LAS FUERZAS MILITARES"
+ },
+ {
+  "codigo": "583",
+  "nombre": "MIEMBROS DE LA POLICIA"
+ },
+ {
+  "codigo": "584",
+  "nombre": "GUARDAESPALDAS Y OTROS MIEMBROS DE PROTECCION CIVIL"
+ },
+ {
+  "codigo": "590",
+  "nombre": "OTROS TRABAJADORES DE SERVICIOS"
+ },
+ {
+  "codigo": "592",
+  "nombre": "EMBALSAMADORES"
+ },
+ {
+  "codigo": "599",
+  "nombre": "TRABAJADOR SEXUAL"
+ },
+ {
+  "codigo": "610",
+  "nombre": "EXPLOTADORES AGRICOLAS ESPECIALIZADOS O NO"
+ },
+ {
+  "codigo": "621",
+  "nombre": "OBREROS DE AGRICULTURA"
+ },
+ {
+  "codigo": "624",
+  "nombre": "OBREROS DE GANADERIA"
+ },
+ {
+  "codigo": "626",
+  "nombre": "OBREROS DE AVICULTURA"
+ },
+ {
+  "codigo": "627",
+  "nombre": "OBREROS EN CULTIVO DE HUERTAS, VIVEROS Y JARDINES"
+ },
+ {
+  "codigo": "628",
+  "nombre": "CONDUCTORES DE MAQUINARIA AGRICOLA"
+ },
+ {
+  "codigo": "630",
+  "nombre": "TRABAJADORES FORESTALES"
+ },
+ {
+  "codigo": "640",
+  "nombre": "PESCADORES, CAZADORES Y TRABAJOS ASIMILADOS"
+ },
+ {
+  "codigo": "710",
+  "nombre": "MINEROS, CANTEROS, OTROS OBREROS DE MINA Y ROCA, SONDISTAS Y ASIMILADOS"
+ },
+ {
+  "codigo": "720",
+  "nombre": "OBREROS DE METALURGIA (HORNO, LAMINACION, MOLDEADOR, MACHERO, TREFILADOR,"
+ },
+ {
+  "codigo": "730",
+  "nombre": "OBREROS DE TRATAMIENTO DE MADERA (ASERRADEROS Y ASIMILADOS)"
+ },
+ {
+  "codigo": "733",
+  "nombre": "OBREROS DE LA PREPACION DE LA PULPA DE PAPEL"
+ },
+ {
+  "codigo": "740",
+  "nombre": "OPERADORES DE TRATAMIENTOS QUIMICOS Y ASIMILADOS (Mezcladores, filtraci¾n"
+ },
+ {
+  "codigo": "750",
+  "nombre": "HILANDEROS, TEJEDORES, TINTOREROS Y TRABAJADORES ASIMILADOS"
+ },
+ {
+  "codigo": "760",
+  "nombre": "OBREROS DE CURTIDO Y TRATAMIENTO DE PIELES"
+ },
+ {
+  "codigo": "770",
+  "nombre": "OBREROS DE LA PREPARACION DE ALIMENTOS Y BEBIDAS"
+ },
+ {
+  "codigo": "771",
+  "nombre": "MATARIFES Y CARNICEROS"
+ },
+ {
+  "codigo": "780",
+  "nombre": "OBREROS DE FABRICAS DE TABACO"
+ },
+ {
+  "codigo": "790",
+  "nombre": "SASTRES Y MODISTOS Y ASIMILADOS"
+ },
+ {
+  "codigo": "791",
+  "nombre": "PELETEROS Y ASIMILADOS"
+ },
+ {
+  "codigo": "792",
+  "nombre": "TAPICEROS Y ASIMILADOS"
+ },
+ {
+  "codigo": "800",
+  "nombre": "ZAPATEROS Y OTROS OBREROS DEL CALZADO"
+ },
+ {
+  "codigo": "810",
+  "nombre": "EBANISTAS, OPERADORES DE MAQUINAS DE LABRAR MADERA Y TRABAJADORES ASIMILA"
+ },
+ {
+  "codigo": "830",
+  "nombre": "OBREROS DE LABRAR METALES (HERRERO, FORJADOR, AJUSTADOR, PULIDOR, AFILADO"
+ },
+ {
+  "codigo": "840",
+  "nombre": "AJUSTADORES, MONTADORES E INSTALADORES DE MAQUINAS E INSTRUMENTOS DE PREC"
+ },
+ {
+  "codigo": "850",
+  "nombre": "ELECTRICISTAS, ELECTRONICOS Y OTROS DE RADIO, TELEVISION, TELECOMUNICACIO"
+ },
+ {
+  "codigo": "860",
+  "nombre": "OPERADORES DE ESTACIONES EMISORAS RADIO, TELEVISION, SONORIZACION Y CINEM"
+ },
+ {
+  "codigo": "870",
+  "nombre": "FONTANERO O PLOMERO E INSTALADOR DE TUBERIAS"
+ },
+ {
+  "codigo": "872",
+  "nombre": "SOLDADOR Y OXICORTADOR"
+ },
+ {
+  "codigo": "873",
+  "nombre": "OPERADOR DE CALDEROS Y OTROS RECIPIENTES A PRESION"
+ },
+ {
+  "codigo": "874",
+  "nombre": "INSTALADORES DE ESTRUCTURAS METALICAS"
+ },
+ {
+  "codigo": "880",
+  "nombre": "JOYEROS Y PLATEROS"
+ },
+ {
+  "codigo": "890",
+  "nombre": "VIDRIEROS, CERAMISTAS Y TODOS LOS TRABAJOS ASIMILADOS EN ESTA AREA"
+ },
+ {
+  "codigo": "900",
+  "nombre": "OBREROS DE LA FABRICACION DE PRODUCTOS DE CAUCHO Y PLASTICOS"
+ },
+ {
+  "codigo": "910",
+  "nombre": "CONFECCIONADORES DE PRODUCTOS DE PAPEL Y CARTON"
+ },
+ {
+  "codigo": "920",
+  "nombre": "OBREROS DE ARTES GRAFICAS"
+ },
+ {
+  "codigo": "930",
+  "nombre": "PINTORES DE EDIFICIOS, CONSTRUCCIONES Y ASIMILADOS"
+ },
+ {
+  "codigo": "940",
+  "nombre": "OBREROS MANUFACTUREROS Y TRABAJADORES NO CLASIFICADOS EN OTRO PUNTO"
+ },
+ {
+  "codigo": "950",
+  "nombre": "OBREROS DE CONSTRUCCION (ALBAÐIL, INSTALADOR DE PISOS, TECHADOR, CARPINTE"
+ },
+ {
+  "codigo": "960",
+  "nombre": "OPERADORES DE MAQUINAS FIJAS NO DESCRITOS EN OTRO EPIGRAFE"
+ },
+ {
+  "codigo": "971",
+  "nombre": "OBREROS DE MANIPULACION DE MERCANCIA (estibadores, cargadores, embaladore"
+ },
+ {
+  "codigo": "973",
+  "nombre": "OBREROS DE MOVIMIENTO DE TIERRA (Gr·as y otras mßquinas para el movimient"
+ },
+ {
+  "codigo": "979",
+  "nombre": "OBREROS DE MANIPULACION DE MERCANCIA  O MOVIMIENTO DE TIERRA NO CLASIFICA"
+ },
+ {
+  "codigo": "980",
+  "nombre": "CONDUCTORES DE VEHICULOS DE TRANSPORTE (TIERRA O AGUA)"
+ },
+ {
+  "codigo": "981",
+  "nombre": "ESTUDIANTE"
+ },
+ {
+  "codigo": "990",
+  "nombre": "PEONES NO CLASIFICADOS EN OTRO EPIGRAFE"
+ },
+ {
+  "codigo": "998",
+  "nombre": "TRABAJADORES QUE HAN DECLARADO OCUPACIONES INSUFICIENTEMENTE DESCRITAS"
+ },
+ {
+  "codigo": "999",
+  "nombre": "PERSONAS QUE NO HAN DECLARADO OCUPACION"
+ }
+]

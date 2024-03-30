@@ -1,0 +1,746 @@
+[
+ {
+  "codigo": "001",
+  "especiali": "ACTIVIDAD FISICO TERAPEUTICA"
+ },
+ {
+  "codigo": "020",
+  "especiali": "ANESTESIA CARDIOTORAXICA"
+ },
+ {
+  "codigo": "021",
+  "especiali": "ANESTESIOLOGIA"
+ },
+ {
+  "codigo": "022",
+  "especiali": "ANESTESIOLOGIA Y REANIMACION"
+ },
+ {
+  "codigo": "023",
+  "especiali": "ANESTESIOLOGIA, CUIDADOS INTENSIVOS Y REANIMACION"
+ },
+ {
+  "codigo": "040",
+  "especiali": "ATENCION DE ENFERMERIA EN QUIROFANOS Y CENTROS DE ESTERILIZACION"
+ },
+ {
+  "codigo": "041",
+  "especiali": "ATENCION DE ENFERMERIA EN URGENCIAS"
+ },
+ {
+  "codigo": "042",
+  "especiali": "ENFERMERIA CARDIORESPIRATORIA"
+ },
+ {
+  "codigo": "043",
+  "especiali": "ENFERMERIA EN CUIDADO AL NI¥O"
+ },
+ {
+  "codigo": "044",
+  "especiali": "ENFERMERIA EN CUIDADO CRITICO"
+ },
+ {
+  "codigo": "045",
+  "especiali": "ENFERMERIA EN CUIDADO DEL ADULTO EN ESTADO CRITICO DE SALUD"
+ },
+ {
+  "codigo": "046",
+  "especiali": "ENFERMERIA EN CUIDADO INTENSIVO"
+ },
+ {
+  "codigo": "047",
+  "especiali": "ENFERMERIA EN GERONTOLOGIA"
+ },
+ {
+  "codigo": "048",
+  "especiali": "ENFERMERIA EN SALUD FAMILIAR"
+ },
+ {
+  "codigo": "049",
+  "especiali": "ENFERMERIA EN SALUD MENTAL"
+ },
+ {
+  "codigo": "050",
+  "especiali": "ENFERMERIA EN SALUD OCUPACIONAL"
+ },
+ {
+  "codigo": "051",
+  "especiali": "ENFERMERIA MATERNO-PERINATAL"
+ },
+ {
+  "codigo": "052",
+  "especiali": "ENFERMERIA MEDICO-QUIRURGICA"
+ },
+ {
+  "codigo": "053",
+  "especiali": "ENFERMERIA NEFROLOGICA"
+ },
+ {
+  "codigo": "054",
+  "especiali": "ENFERMERIA NEFROLOGICA Y UROLOGICA"
+ },
+ {
+  "codigo": "055",
+  "especiali": "ENFERMERIA NEONATAL"
+ },
+ {
+  "codigo": "55",
+  "especiali": "QUIMICO FARMACEUTA"
+ },
+ {
+  "codigo": "056",
+  "especiali": "ENFERMERIA NEUROLOGICA"
+ },
+ {
+  "codigo": "057",
+  "especiali": "ENFERMERIA NEUROLOGICA Y NEUROCIRUGIA"
+ },
+ {
+  "codigo": "058",
+  "especiali": "ENFERMERIA ONCOLOGICA"
+ },
+ {
+  "codigo": "059",
+  "especiali": "ENFERMERIA PERINATAL"
+ },
+ {
+  "codigo": "080",
+  "especiali": "ATENCION EN DESASTRES Y EMERGENCIAS"
+ },
+ {
+  "codigo": "090",
+  "especiali": "ATENCION FARMACEUTICA"
+ },
+ {
+  "codigo": "100",
+  "especiali": "AUDIOLOGIA"
+ },
+ {
+  "codigo": "101",
+  "especiali": "AUDIOPROTESIS"
+ },
+ {
+  "codigo": "110",
+  "especiali": "BIOMATERIALES, OPERATORIA DENTAL Y ESTETICA"
+ },
+ {
+  "codigo": "120",
+  "especiali": "CARDIOLOGIA"
+ },
+ {
+  "codigo": "121",
+  "especiali": "CARDIOLOGIA INTERVENCIONISTA Y HEMODINAMICA"
+ },
+ {
+  "codigo": "122",
+  "especiali": "CARDIOLOGIA PEDIATRICA"
+ },
+ {
+  "codigo": "130",
+  "especiali": "CIRUGIA CARDIOVASCULAR"
+ },
+ {
+  "codigo": "131",
+  "especiali": "CIRUGIA DE CABEZA Y CUELLO"
+ },
+ {
+  "codigo": "132",
+  "especiali": "CIRUGIA DE LA MAMA Y TUMORES DE TEJIDOS BLANDOS"
+ },
+ {
+  "codigo": "133",
+  "especiali": "CIRUGIA DE LA MANO"
+ },
+ {
+  "codigo": "134",
+  "especiali": "CIRUGIA DEL TORAX"
+ },
+ {
+  "codigo": "135",
+  "especiali": "CIRUGIA DERMATOLOGICA"
+ },
+ {
+  "codigo": "136",
+  "especiali": "CIRUGIA GASTROINTESTINAL Y ENDOSCOPIA DIGESTIVA"
+ },
+ {
+  "codigo": "137",
+  "especiali": "CIRUGIA GENERAL"
+ },
+ {
+  "codigo": "138",
+  "especiali": "CIRUGIA MAXILOFACIAL"
+ },
+ {
+  "codigo": "139",
+  "especiali": "CIRUGIA ONCOLOGICA"
+ },
+ {
+  "codigo": "140",
+  "especiali": "CIRUGIA ORAL Y MAXILOFACIAL"
+ },
+ {
+  "codigo": "141",
+  "especiali": "CIRUGIA ORTOPEDICA Y TRAUMATOLOGIA"
+ },
+ {
+  "codigo": "142",
+  "especiali": "CIRUGIA PEDIATRICA"
+ },
+ {
+  "codigo": "143",
+  "especiali": "CIRUGIA PLASTICA"
+ },
+ {
+  "codigo": "144",
+  "especiali": "CIRUGIA PLASTICA ESTETICA, MAXILOFACIAL Y DE LA MANO"
+ },
+ {
+  "codigo": "145",
+  "especiali": "CIRUGIA PLASTICA FACIAL"
+ },
+ {
+  "codigo": "146",
+  "especiali": "CIRUGIA PLASTICA MAXILOFACIAL Y DE LA MANO"
+ },
+ {
+  "codigo": "147",
+  "especiali": "CIRUGIA PLASTICA ONCOLOGICA"
+ },
+ {
+  "codigo": "148",
+  "especiali": "CIRUGIA VASCULAR Y ANGIOLOGIA"
+ },
+ {
+  "codigo": "149",
+  "especiali": "CIRUGIA, IMPLANTOLOGIA Y PATOLOGIA ORAL"
+ },
+ {
+  "codigo": "160",
+  "especiali": "COLOPROCTOLOGIA"
+ },
+ {
+  "codigo": "170",
+  "especiali": "COMUNICACIàN EDUCATIVA PARA LA SALUD Y EL BIENESTAR"
+ },
+ {
+  "codigo": "180",
+  "especiali": "CORNEA Y ENFERMEDADES EXTERNAS"
+ },
+ {
+  "codigo": "190",
+  "especiali": "CUIDADO DEL PACIENTE EN ESTADO CRITICO"
+ },
+ {
+  "codigo": "195",
+  "especiali": "CUIDADO RESPIRATORIO"
+ },
+ {
+  "codigo": "200",
+  "especiali": "DERMATOLOGIA"
+ },
+ {
+  "codigo": "201",
+  "especiali": "DERMATOLOGIA ONCOLOGICA"
+ },
+ {
+  "codigo": "210",
+  "especiali": "DESARROLLO DEL LENGUAJE Y SU PATOLOGIA"
+ },
+ {
+  "codigo": "220",
+  "especiali": "DIAGNOSTICO Y MEDICINA ORAL"
+ },
+ {
+  "codigo": "230",
+  "especiali": "DOLOR Y CUIDADOS PALEATIVOS"
+ },
+ {
+  "codigo": "240",
+  "especiali": "ENDOCRINOLOGIA"
+ },
+ {
+  "codigo": "250",
+  "especiali": "ENDODONCIA"
+ },
+ {
+  "codigo": "260",
+  "especiali": "EPIDEMIOLOGIA"
+ },
+ {
+  "codigo": "270",
+  "especiali": "ERGONOMIA"
+ },
+ {
+  "codigo": "280",
+  "especiali": "ESTOMATOLOGIA PEDIATRICA"
+ },
+ {
+  "codigo": "281",
+  "especiali": "ESTOMATOLOGIA Y CIRUGIA ORAL"
+ },
+ {
+  "codigo": "282",
+  "especiali": "ESTOMATOLOGIA Y SALUD ORAL"
+ },
+ {
+  "codigo": "290",
+  "especiali": "FISIOTERAPIA EN CUIDADO CRITICO"
+ },
+ {
+  "codigo": "300",
+  "especiali": "FONIATRIA"
+ },
+ {
+  "codigo": "310",
+  "especiali": "GASTROENTEROLOGIA"
+ },
+ {
+  "codigo": "311",
+  "especiali": "GASTROENTEROLOGIA Y ENDOSCOPIA DIGESTIVA"
+ },
+ {
+  "codigo": "320",
+  "especiali": "GERIATRIA CLINICA"
+ },
+ {
+  "codigo": "330",
+  "especiali": "GERONTOLOGIA"
+ },
+ {
+  "codigo": "331",
+  "especiali": "GERONTOLOGIA SOCIAL"
+ },
+ {
+  "codigo": "340",
+  "especiali": "GINECOLOGIA ONCOLOGICA"
+ },
+ {
+  "codigo": "341",
+  "especiali": "GINECOLOGIA Y OBSTETRICIA"
+ },
+ {
+  "codigo": "350",
+  "especiali": "HEMATO ONCOLOGIA"
+ },
+ {
+  "codigo": "351",
+  "especiali": "HEMATOLOGIA"
+ },
+ {
+  "codigo": "352",
+  "especiali": "HEMATOLOGIA EN EL LABORATORIO CLINICO Y MANEJO DEL BANCO DE SANGRE"
+ },
+ {
+  "codigo": "353",
+  "especiali": "LABORATORIO CLINICO DE HEMATOLOGIA Y BANCO DE SANGRE"
+ },
+ {
+  "codigo": "360",
+  "especiali": "IMµGENES DIAGNOSTICAS"
+ },
+ {
+  "codigo": "361",
+  "especiali": "IMAGENOLOGIA ONCOLOGICA"
+ },
+ {
+  "codigo": "370",
+  "especiali": "IMPLANTOLOGIA ORAL"
+ },
+ {
+  "codigo": "371",
+  "especiali": "IMPLANTOLOGIA ORALY RECONSTRUCTIVA"
+ },
+ {
+  "codigo": "380",
+  "especiali": "MEDICINA APLICADA A LA ACTIVIDAD FISICA Y AL DEPORTE"
+ },
+ {
+  "codigo": "381",
+  "especiali": "MEDICINA DE LABORATORIO"
+ },
+ {
+  "codigo": "382",
+  "especiali": "MEDICINA DE URGENCIAS Y DOMICILIARIA"
+ },
+ {
+  "codigo": "383",
+  "especiali": "MEDICINA DEL DEPORTE"
+ },
+ {
+  "codigo": "384",
+  "especiali": "MEDICINA DEL TRABAJO"
+ },
+ {
+  "codigo": "385",
+  "especiali": "MEDICINA FAMILIAR"
+ },
+ {
+  "codigo": "386",
+  "especiali": "MEDICINA FISICA Y REHABILITACION"
+ },
+ {
+  "codigo": "387",
+  "especiali": "MEDICINA INTERNA"
+ },
+ {
+  "codigo": "388",
+  "especiali": "MEDICINA NUCLEAR"
+ },
+ {
+  "codigo": "389",
+  "especiali": "MEDICINA GENERAL"
+ },
+ {
+  "codigo": "400",
+  "especiali": "MICROBIOLOGIA MEDICA"
+ },
+ {
+  "codigo": "401",
+  "especiali": "MICROBIOLOGIA Y PARASITOLOGIA"
+ },
+ {
+  "codigo": "410",
+  "especiali": "NEFROLOGIA"
+ },
+ {
+  "codigo": "420",
+  "especiali": "NEONATOLOGIA"
+ },
+ {
+  "codigo": "430",
+  "especiali": "NEUMOLOGIA"
+ },
+ {
+  "codigo": "431",
+  "especiali": "NEUMOLOGIA PEDIATRICA"
+ },
+ {
+  "codigo": "440",
+  "especiali": "NEUROCIRUGIA"
+ },
+ {
+  "codigo": "441",
+  "especiali": "NEUROLOGIA"
+ },
+ {
+  "codigo": "442",
+  "especiali": "NEUROLOGIA PEDIATRICA"
+ },
+ {
+  "codigo": "443",
+  "especiali": "NEUROPSICOPEDAGOGIA"
+ },
+ {
+  "codigo": "450",
+  "especiali": "NUTRICION CLINICA"
+ },
+ {
+  "codigo": "451",
+  "especiali": "NUTRICION HUMANA"
+ },
+ {
+  "codigo": "452",
+  "especiali": "NUTRICION Y DIETETICA"
+ },
+ {
+  "codigo": "460",
+  "especiali": "ODONTOLOGIA INTEGRAL DEL ADOLESCENTE Y ORTODONCIA"
+ },
+ {
+  "codigo": "461",
+  "especiali": "ODONTOLOGIA INTEGRAL DEL ADULTO"
+ },
+ {
+  "codigo": "462",
+  "especiali": "ODONTOLOGIA PEDIATRICA"
+ },
+ {
+  "codigo": "463",
+  "especiali": "ODONTOLOGIA PEDIATRICA Y ORTOPEDIA MAXILAR"
+ },
+ {
+  "codigo": "464",
+  "especiali": "ODONTOPEDIATRIA CLINICA Y ORTODONCIA PREVENTIVA"
+ },
+ {
+  "codigo": "480",
+  "especiali": "OFTALMOLOGIA"
+ },
+ {
+  "codigo": "481",
+  "especiali": "OFTALMOLOGIA ONCOLOGICA"
+ },
+ {
+  "codigo": "490",
+  "especiali": "ONCO-HEMATOLOGIA PEDIATRICA"
+ },
+ {
+  "codigo": "491",
+  "especiali": "ONCOLOGIA CLINICA"
+ },
+ {
+  "codigo": "492",
+  "especiali": "ONCOLOGIA PEDIATRICA"
+ },
+ {
+  "codigo": "500",
+  "especiali": "OPTOMETRIA"
+ },
+ {
+  "codigo": "510",
+  "especiali": "ORTODONCIA"
+ },
+ {
+  "codigo": "511",
+  "especiali": "ORTOPEDIA FUNCIONAL Y ORTODONCIA"
+ },
+ {
+  "codigo": "512",
+  "especiali": "ORTOPEDIA MAXILAR"
+ },
+ {
+  "codigo": "513",
+  "especiali": "ORTOPEDIA ONCOLOGICA"
+ },
+ {
+  "codigo": "514",
+  "especiali": "ORTOPEDIA Y TRAUMATOLOGIA"
+ },
+ {
+  "codigo": "520",
+  "especiali": "OTOLOGIA"
+ },
+ {
+  "codigo": "521",
+  "especiali": "OTORRINOLARINGOLOGIA"
+ },
+ {
+  "codigo": "522",
+  "especiali": "OTORRINOLARINGOLOGIA Y CIRUGIA DE CABEZA Y CUELLO"
+ },
+ {
+  "codigo": "530",
+  "especiali": "PATOLOGIA"
+ },
+ {
+  "codigo": "531",
+  "especiali": "PATOLOGIA ANATOMICA Y CLINICA"
+ },
+ {
+  "codigo": "532",
+  "especiali": "PATOLOGIA INFECCIOSA"
+ },
+ {
+  "codigo": "533",
+  "especiali": "PATOLOGIA ONCOLOGICA"
+ },
+ {
+  "codigo": "534",
+  "especiali": "PATOLOGIA ORAL Y MEDIOS DIAGNOSTICOS"
+ },
+ {
+  "codigo": "535",
+  "especiali": "PATOLOGIA Y CIRUGIA BUCAL"
+ },
+ {
+  "codigo": "536",
+  "especiali": "PATOLOGIA Y MEDICINA DE LABORATORIO"
+ },
+ {
+  "codigo": "550",
+  "especiali": "PEDIATRIA"
+ },
+ {
+  "codigo": "551",
+  "especiali": "PEDIATRIA PERINATAL Y NEONATOLOGIA"
+ },
+ {
+  "codigo": "560",
+  "especiali": "PERIODONCIA"
+ },
+ {
+  "codigo": "561",
+  "especiali": "PERIODONCIA Y BIOLOGIA ORAL"
+ },
+ {
+  "codigo": "562",
+  "especiali": "PERIODONCIA Y MEDICINA ORAL"
+ },
+ {
+  "codigo": "563",
+  "especiali": "PERIODONCIA Y OSEOINTEGRACION"
+ },
+ {
+  "codigo": "570",
+  "especiali": "PROSTODONCIA"
+ },
+ {
+  "codigo": "571",
+  "especiali": "PROSTODONCIA, OCLUSION Y ARTICULACION TEMPOROMANDIBULAR"
+ },
+ {
+  "codigo": "580",
+  "especiali": "PROTESIS PERIODONTAL"
+ },
+ {
+  "codigo": "590",
+  "especiali": "PSIQUIATRIA"
+ },
+ {
+  "codigo": "591",
+  "especiali": "PSICOLOGIA"
+ },
+ {
+  "codigo": "592",
+  "especiali": "NEUROPSICOLOGIA"
+ },
+ {
+  "codigo": "600",
+  "especiali": "RADIODIAGNOSTICO"
+ },
+ {
+  "codigo": "601",
+  "especiali": "RADIOLOGIA"
+ },
+ {
+  "codigo": "602",
+  "especiali": "RADIOLOGIA E IMµGENES DIAGNOSTICAS"
+ },
+ {
+  "codigo": "603",
+  "especiali": "RADIOTERAPIA"
+ },
+ {
+  "codigo": "610",
+  "especiali": "REHABILITACION CARDIOPULMONAR"
+ },
+ {
+  "codigo": "611",
+  "especiali": "REHABILITACION DEL MIEMBRO SUPERIOR"
+ },
+ {
+  "codigo": "612",
+  "especiali": "REHABILITACION EN ENFERMERIA"
+ },
+ {
+  "codigo": "613",
+  "especiali": "REHABILITACION ONCOLOGICA"
+ },
+ {
+  "codigo": "614",
+  "especiali": "REHABILITACION ORAL"
+ },
+ {
+  "codigo": "615",
+  "especiali": "REHABILITACION Y EDUCACION VOCAL"
+ },
+ {
+  "codigo": "620",
+  "especiali": "REUMATOLOGIA"
+ },
+ {
+  "codigo": "630",
+  "especiali": "SALUD AMBIENTAL"
+ },
+ {
+  "codigo": "631",
+  "especiali": "SALUD Y MEDIO AMBIENTE"
+ },
+ {
+  "codigo": "640",
+  "especiali": "SALUD PUBLICA"
+ },
+ {
+  "codigo": "650",
+  "especiali": "SALUD COMUNITARIA"
+ },
+ {
+  "codigo": "660",
+  "especiali": "SALUD FAMILIAR"
+ },
+ {
+  "codigo": "661",
+  "especiali": "SALUD FAMILIAR Y COMUNITARIA"
+ },
+ {
+  "codigo": "670",
+  "especiali": "SALUD MATERNO INFANTIL"
+ },
+ {
+  "codigo": "680",
+  "especiali": "SALUD MENTAL Y FARMACODEPENDENCIA"
+ },
+ {
+  "codigo": "690",
+  "especiali": "SALUD OCUPACIONAL"
+ },
+ {
+  "codigo": "691",
+  "especiali": "SALUD OCUPACIONAL Y PROTECCION DE RIESGOS LABORALES"
+ },
+ {
+  "codigo": "700",
+  "especiali": "SEMIOLOGIA Y CIRUGIA ORAL"
+ },
+ {
+  "codigo": "710",
+  "especiali": "TERAPIA FAMILIAR"
+ },
+ {
+  "codigo": "720",
+  "especiali": "TERAPIA MANUAL"
+ },
+ {
+  "codigo": "730",
+  "especiali": "TERAPIA RESPIRATORIA PEDIATRICA"
+ },
+ {
+  "codigo": "740",
+  "especiali": "TOXICOLOGIA CLINICA"
+ },
+ {
+  "codigo": "750",
+  "especiali": "UROLOGIA"
+ },
+ {
+  "codigo": "751",
+  "especiali": "UROLOGIA ONCOLOGICA"
+ },
+ {
+  "codigo": "760",
+  "especiali": "GENETICA HUMANA"
+ },
+ {
+  "codigo": "770",
+  "especiali": "INMUNOLOGIA"
+ },
+ {
+  "codigo": "780",
+  "especiali": "VIROLOGIA"
+ },
+ {
+  "codigo": "790",
+  "especiali": "TERAPIA OCUPACIONAL"
+ },
+ {
+  "codigo": "791",
+  "especiali": "TERAPIA DE LENGUAJE"
+ },
+ {
+  "codigo": "792",
+  "especiali": "PSIQUIATRIA INFANTIL"
+ },
+ {
+  "codigo": "793",
+  "especiali": "URGENCIA PSIQUIATRICA"
+ },
+ {
+  "codigo": "794",
+  "especiali": "INFECTOLOGIA"
+ },
+ {
+  "codigo": "999",
+  "especiali": "OTRA ESPECIALIDAD NO CLASIFICADA"
+ }
+]

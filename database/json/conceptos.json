@@ -1,0 +1,32 @@
+[
+ {
+  "codigo": "01",
+  "concepto": "CONSULTA DE PSICOLOGIA",
+  "cta_debe": null,
+  "cta_haber": null,
+  "cta_iva": null,
+  "cta_riva": null,
+  "cta_dscto": null,
+  "cta_inven": "416510",
+  "tipo_mov": "I",
+  "cta_costo": null,
+  "proyec": null,
+  "cta_almac": null,
+  "ivalmac": null
+ },
+ {
+  "codigo": "02",
+  "concepto": "CARTERA",
+  "cta_debe": "130505",
+  "cta_haber": null,
+  "cta_iva": null,
+  "cta_riva": null,
+  "cta_dscto": null,
+  "cta_inven": null,
+  "tipo_mov": "C",
+  "cta_costo": null,
+  "proyec": null,
+  "cta_almac": null,
+  "ivalmac": null
+ }
+]

@@ -1,0 +1,137 @@
+[
+	{
+		"codigo" : "01",
+		"nombre" : "SISTEMA NERVIOSO",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "02",
+		"nombre" : "SISTEMA ENDOCRINO",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "03",
+		"nombre" : "SISTEMA VISUAL",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "04",
+		"nombre" : "SISTEMA AUDITIVO",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "05",
+		"nombre" : "NARIZ, BOCA Y FARINGE",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "06",
+		"nombre" : "SISTEMA RESPIRATORIO",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "07",
+		"nombre" : "SISTEMA CIRCULATORIO",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "08",
+		"nombre" : "SISTEMA HEMATICO Y LINFATICO",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "09",
+		"nombre" : "SISTEMA DIGESTIVO",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "10",
+		"nombre" : "SISTEMA URINARIO",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "11",
+		"nombre" : "SISTEMA REPRODUCTOR MASCULINO",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "12",
+		"nombre" : "SISTEMA REPRODUCTOR FEMENINO",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "13",
+		"nombre" : "SISTEMA OSTEOMUSCULAR",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "14",
+		"nombre" : "SISTEMA TEGUMENTARIO",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "15",
+		"nombre" : "IMAGENOLOGIA",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "16",
+		"nombre" : "CONSULTA, MONITORIZACION Y PROCEDIMIENTOS DIAGNàSTICOS",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "17",
+		"nombre" : "LABORATORIO CLÖNICO",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "18",
+		"nombre" : "MEDICINA TRANSFUSIONAL Y BANCO DE SANGRE",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "19",
+		"nombre" : "MEDICINA NUCLEAR Y RADIOTERAPIA +",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "20",
+		"nombre" : "DESEMPE¥O FUNCIONAL Y REHABILITACION +",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "21",
+		"nombre" : "SALUD MENTAL",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "22",
+		"nombre" : "DIAGNOSTICO Y TRATAMIENTO EN SISTEMAS VISUAL Y AUDITIVO +",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "23",
+		"nombre" : "OTROS PROCEDIMIENTOS NO QUIRURGICOS",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "24",
+		"nombre" : "PROCEDIMIENTOS MISCELANEOS +",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "25",
+		"nombre" : "PROCEDIMIENTOS E INTERVENCIONES COLECTIVAS +",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "26",
+		"nombre" : "PROCEDIMIENTOS E INTERVENCIONES SOBRE LAS CONDICIONES DE TRABAJO",
+		"trial257" : "T"
+	},
+	{
+		"codigo" : "27",
+		"nombre" : "PROCEDIMIENTOS E INTERVENCIONES HACIA LA GESTION EN SALUD OCUPACI",
+		"trial257" : "T"
+	}
+]

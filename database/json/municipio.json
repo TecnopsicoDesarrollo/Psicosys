@@ -1,0 +1,7842 @@
+[
+ {
+  "codigo": "01050",
+  "ciudad": "QUITO, ECUADOR",
+  "dpto": "01",
+  "cod_muni": "050",
+  "iddpto": 34
+ },
+ {
+  "codigo": "05001",
+  "ciudad": "MEDELLIN",
+  "dpto": "05",
+  "cod_muni": "001",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05002",
+  "ciudad": "ABEJORRAL",
+  "dpto": "05",
+  "cod_muni": "002",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05004",
+  "ciudad": "ABRIAQUI",
+  "dpto": "05",
+  "cod_muni": "004",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05021",
+  "ciudad": "ALEJANDRIA",
+  "dpto": "05",
+  "cod_muni": "021",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05030",
+  "ciudad": "AMAGA",
+  "dpto": "05",
+  "cod_muni": "030",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05031",
+  "ciudad": "AMALFI",
+  "dpto": "05",
+  "cod_muni": "031",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05034",
+  "ciudad": "ANDES",
+  "dpto": "05",
+  "cod_muni": "034",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05036",
+  "ciudad": "ANGELOPOLIS",
+  "dpto": "05",
+  "cod_muni": "036",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05038",
+  "ciudad": "ANGOSTURA",
+  "dpto": "05",
+  "cod_muni": "038",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05040",
+  "ciudad": "ANORI",
+  "dpto": "05",
+  "cod_muni": "040",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05042",
+  "ciudad": "SANTAFE DE ANTIOQUIA",
+  "dpto": "05",
+  "cod_muni": "042",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05044",
+  "ciudad": "ANZA",
+  "dpto": "05",
+  "cod_muni": "044",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05045",
+  "ciudad": "APARTADO",
+  "dpto": "05",
+  "cod_muni": "045",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05051",
+  "ciudad": "ARBOLETES",
+  "dpto": "05",
+  "cod_muni": "051",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05055",
+  "ciudad": "ARGELIA",
+  "dpto": "05",
+  "cod_muni": "055",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05059",
+  "ciudad": "ARMENIA",
+  "dpto": "05",
+  "cod_muni": "059",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05079",
+  "ciudad": "BARBOSA",
+  "dpto": "05",
+  "cod_muni": "079",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05086",
+  "ciudad": "BELMIRA",
+  "dpto": "05",
+  "cod_muni": "086",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05088",
+  "ciudad": "BELLO",
+  "dpto": "05",
+  "cod_muni": "088",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05091",
+  "ciudad": "BETANIA",
+  "dpto": "05",
+  "cod_muni": "091",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05093",
+  "ciudad": "BETULIA",
+  "dpto": "05",
+  "cod_muni": "093",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05101",
+  "ciudad": "CIUDAD BOLIVAR",
+  "dpto": "05",
+  "cod_muni": "101",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05107",
+  "ciudad": "BRICEÑO",
+  "dpto": "05",
+  "cod_muni": "107",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05113",
+  "ciudad": "BURITICA",
+  "dpto": "05",
+  "cod_muni": "113",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05120",
+  "ciudad": "CACERES",
+  "dpto": "05",
+  "cod_muni": "120",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05125",
+  "ciudad": "CAICEDO",
+  "dpto": "05",
+  "cod_muni": "125",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05129",
+  "ciudad": "CALDAS",
+  "dpto": "05",
+  "cod_muni": "129",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05134",
+  "ciudad": "CAMPAMENTO",
+  "dpto": "05",
+  "cod_muni": "134",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05138",
+  "ciudad": "CAÑASGORDAS",
+  "dpto": "05",
+  "cod_muni": "138",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05142",
+  "ciudad": "CARACOLI",
+  "dpto": "05",
+  "cod_muni": "142",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05145",
+  "ciudad": "CARAMANTA",
+  "dpto": "05",
+  "cod_muni": "145",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05147",
+  "ciudad": "CAREPA",
+  "dpto": "05",
+  "cod_muni": "147",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05148",
+  "ciudad": "EL CARMEN DE VIBORAL",
+  "dpto": "05",
+  "cod_muni": "148",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05150",
+  "ciudad": "CAROLINA",
+  "dpto": "05",
+  "cod_muni": "150",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05154",
+  "ciudad": "CAUCASIA",
+  "dpto": "05",
+  "cod_muni": "154",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05172",
+  "ciudad": "CHIGORODO",
+  "dpto": "05",
+  "cod_muni": "172",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05190",
+  "ciudad": "CISNEROS",
+  "dpto": "05",
+  "cod_muni": "190",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05197",
+  "ciudad": "COCORNA",
+  "dpto": "05",
+  "cod_muni": "197",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05206",
+  "ciudad": "CONCEPCION",
+  "dpto": "05",
+  "cod_muni": "206",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05209",
+  "ciudad": "CONCORDIA",
+  "dpto": "05",
+  "cod_muni": "209",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05212",
+  "ciudad": "COPACABANA",
+  "dpto": "05",
+  "cod_muni": "212",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05234",
+  "ciudad": "DABEIBA",
+  "dpto": "05",
+  "cod_muni": "234",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05237",
+  "ciudad": "DON MATIAS",
+  "dpto": "05",
+  "cod_muni": "237",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05240",
+  "ciudad": "EBEJICO",
+  "dpto": "05",
+  "cod_muni": "240",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05250",
+  "ciudad": "EL BAGRE",
+  "dpto": "05",
+  "cod_muni": "250",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05264",
+  "ciudad": "ENTRERRIOS",
+  "dpto": "05",
+  "cod_muni": "264",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05266",
+  "ciudad": "ENVIGADO",
+  "dpto": "05",
+  "cod_muni": "266",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05282",
+  "ciudad": "FREDONIA",
+  "dpto": "05",
+  "cod_muni": "282",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05284",
+  "ciudad": "FRONTINO",
+  "dpto": "05",
+  "cod_muni": "284",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05306",
+  "ciudad": "GIRALDO",
+  "dpto": "05",
+  "cod_muni": "306",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05308",
+  "ciudad": "GIRARDOTA",
+  "dpto": "05",
+  "cod_muni": "308",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05310",
+  "ciudad": "GOMEZ PLATA",
+  "dpto": "05",
+  "cod_muni": "310",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05313",
+  "ciudad": "GRANADA",
+  "dpto": "05",
+  "cod_muni": "313",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05315",
+  "ciudad": "GUADALUPE",
+  "dpto": "05",
+  "cod_muni": "315",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05318",
+  "ciudad": "GUARNE",
+  "dpto": "05",
+  "cod_muni": "318",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05321",
+  "ciudad": "GUATAPE",
+  "dpto": "05",
+  "cod_muni": "321",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05347",
+  "ciudad": "HELICONIA",
+  "dpto": "05",
+  "cod_muni": "347",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05353",
+  "ciudad": "HISPANIA",
+  "dpto": "05",
+  "cod_muni": "353",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05360",
+  "ciudad": "ITAGUI",
+  "dpto": "05",
+  "cod_muni": "360",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05361",
+  "ciudad": "ITUANGO",
+  "dpto": "05",
+  "cod_muni": "361",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05364",
+  "ciudad": "JARDIN",
+  "dpto": "05",
+  "cod_muni": "364",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05368",
+  "ciudad": "JERICO",
+  "dpto": "05",
+  "cod_muni": "368",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05376",
+  "ciudad": "LA CEJA",
+  "dpto": "05",
+  "cod_muni": "376",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05380",
+  "ciudad": "LA ESTRELLA",
+  "dpto": "05",
+  "cod_muni": "380",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05390",
+  "ciudad": "LA PINTADA",
+  "dpto": "05",
+  "cod_muni": "390",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05400",
+  "ciudad": "LA UNION",
+  "dpto": "05",
+  "cod_muni": "400",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05411",
+  "ciudad": "LIBORINA",
+  "dpto": "05",
+  "cod_muni": "411",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05425",
+  "ciudad": "MACEO",
+  "dpto": "05",
+  "cod_muni": "425",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05440",
+  "ciudad": "MARINILLA",
+  "dpto": "05",
+  "cod_muni": "440",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05467",
+  "ciudad": "MONTEBELLO",
+  "dpto": "05",
+  "cod_muni": "467",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05475",
+  "ciudad": "MURINDO",
+  "dpto": "05",
+  "cod_muni": "475",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05480",
+  "ciudad": "MUTATA",
+  "dpto": "05",
+  "cod_muni": "480",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05483",
+  "ciudad": "NARIÑO",
+  "dpto": "05",
+  "cod_muni": "483",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05490",
+  "ciudad": "NECOCLI",
+  "dpto": "05",
+  "cod_muni": "490",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05495",
+  "ciudad": "NECHI",
+  "dpto": "05",
+  "cod_muni": "495",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05501",
+  "ciudad": "OLAYA",
+  "dpto": "05",
+  "cod_muni": "501",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05541",
+  "ciudad": "PEÑOL",
+  "dpto": "05",
+  "cod_muni": "541",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05543",
+  "ciudad": "PEQUE",
+  "dpto": "05",
+  "cod_muni": "543",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05576",
+  "ciudad": "PUEBLORRICO",
+  "dpto": "05",
+  "cod_muni": "576",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05579",
+  "ciudad": "PUERTO BERRIO",
+  "dpto": "05",
+  "cod_muni": "579",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05585",
+  "ciudad": "PUERTO NARE",
+  "dpto": "05",
+  "cod_muni": "585",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05591",
+  "ciudad": "PUERTO TRIUNFO",
+  "dpto": "05",
+  "cod_muni": "591",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05604",
+  "ciudad": "REMEDIOS",
+  "dpto": "05",
+  "cod_muni": "604",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05607",
+  "ciudad": "RETIRO",
+  "dpto": "05",
+  "cod_muni": "607",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05615",
+  "ciudad": "RIONEGRO",
+  "dpto": "05",
+  "cod_muni": "615",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05628",
+  "ciudad": "SABANALARGA",
+  "dpto": "05",
+  "cod_muni": "628",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05631",
+  "ciudad": "SABANETA",
+  "dpto": "05",
+  "cod_muni": "631",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05642",
+  "ciudad": "SALGAR",
+  "dpto": "05",
+  "cod_muni": "642",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05647",
+  "ciudad": "SAN ANDRES",
+  "dpto": "05",
+  "cod_muni": "647",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05649",
+  "ciudad": "SAN CARLOS",
+  "dpto": "05",
+  "cod_muni": "649",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05652",
+  "ciudad": "SAN FRANCISCO",
+  "dpto": "05",
+  "cod_muni": "652",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05656",
+  "ciudad": "SAN JERONIMO",
+  "dpto": "05",
+  "cod_muni": "656",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05658",
+  "ciudad": "SAN JOSE DE LA MONTAÑA",
+  "dpto": "05",
+  "cod_muni": "658",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05659",
+  "ciudad": "SAN JUAN DE URABA",
+  "dpto": "05",
+  "cod_muni": "659",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05660",
+  "ciudad": "SAN LUIS",
+  "dpto": "05",
+  "cod_muni": "660",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05664",
+  "ciudad": "SAN PEDRO",
+  "dpto": "05",
+  "cod_muni": "664",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05665",
+  "ciudad": "SAN PEDRO DE URABA",
+  "dpto": "05",
+  "cod_muni": "665",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05667",
+  "ciudad": "SAN RAFAEL",
+  "dpto": "05",
+  "cod_muni": "667",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05670",
+  "ciudad": "SAN ROQUE",
+  "dpto": "05",
+  "cod_muni": "670",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05674",
+  "ciudad": "SAN VICENTE",
+  "dpto": "05",
+  "cod_muni": "674",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05679",
+  "ciudad": "SANTA BARBARA",
+  "dpto": "05",
+  "cod_muni": "679",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05686",
+  "ciudad": "SANTA ROSA DE OSOS",
+  "dpto": "05",
+  "cod_muni": "686",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05690",
+  "ciudad": "SANTO DOMINGO",
+  "dpto": "05",
+  "cod_muni": "690",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05697",
+  "ciudad": "EL SANTUARIO",
+  "dpto": "05",
+  "cod_muni": "697",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05736",
+  "ciudad": "SEGOVIA",
+  "dpto": "05",
+  "cod_muni": "736",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05756",
+  "ciudad": "SONSON",
+  "dpto": "05",
+  "cod_muni": "756",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05761",
+  "ciudad": "SOPETRAN",
+  "dpto": "05",
+  "cod_muni": "761",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05789",
+  "ciudad": "TAMESIS",
+  "dpto": "05",
+  "cod_muni": "789",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05790",
+  "ciudad": "TARAZA",
+  "dpto": "05",
+  "cod_muni": "790",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05792",
+  "ciudad": "TARSO",
+  "dpto": "05",
+  "cod_muni": "792",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05809",
+  "ciudad": "TITIRIBI",
+  "dpto": "05",
+  "cod_muni": "809",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05819",
+  "ciudad": "TOLEDO",
+  "dpto": "05",
+  "cod_muni": "819",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05837",
+  "ciudad": "TURBO",
+  "dpto": "05",
+  "cod_muni": "837",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05842",
+  "ciudad": "URAMITA",
+  "dpto": "05",
+  "cod_muni": "842",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05847",
+  "ciudad": "URRAO",
+  "dpto": "05",
+  "cod_muni": "847",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05854",
+  "ciudad": "VALDIVIA",
+  "dpto": "05",
+  "cod_muni": "854",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05856",
+  "ciudad": "VALPARAISO",
+  "dpto": "05",
+  "cod_muni": "856",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05858",
+  "ciudad": "VEGACHI",
+  "dpto": "05",
+  "cod_muni": "858",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05861",
+  "ciudad": "VENECIA",
+  "dpto": "05",
+  "cod_muni": "861",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05873",
+  "ciudad": "VIGIA DEL FUERTE",
+  "dpto": "05",
+  "cod_muni": "873",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05885",
+  "ciudad": "YALI",
+  "dpto": "05",
+  "cod_muni": "885",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05887",
+  "ciudad": "YARUMAL",
+  "dpto": "05",
+  "cod_muni": "887",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05890",
+  "ciudad": "YOLOMBO",
+  "dpto": "05",
+  "cod_muni": "890",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05893",
+  "ciudad": "YONDO",
+  "dpto": "05",
+  "cod_muni": "893",
+  "iddpto": 1
+ },
+ {
+  "codigo": "05895",
+  "ciudad": "ZARAGOZA",
+  "dpto": "05",
+  "cod_muni": "895",
+  "iddpto": 1
+ },
+ {
+  "codigo": "08001",
+  "ciudad": "BARRANQUILLA",
+  "dpto": "08",
+  "cod_muni": "001",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08078",
+  "ciudad": "BARANOA",
+  "dpto": "08",
+  "cod_muni": "078",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08137",
+  "ciudad": "CAMPO DE LA CRUZ",
+  "dpto": "08",
+  "cod_muni": "137",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08141",
+  "ciudad": "CANDELARIA",
+  "dpto": "08",
+  "cod_muni": "141",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08296",
+  "ciudad": "GALAPA",
+  "dpto": "08",
+  "cod_muni": "296",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08372",
+  "ciudad": "JUAN DE ACOSTA",
+  "dpto": "08",
+  "cod_muni": "372",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08421",
+  "ciudad": "LURUACO",
+  "dpto": "08",
+  "cod_muni": "421",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08433",
+  "ciudad": "MALAMBO",
+  "dpto": "08",
+  "cod_muni": "433",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08436",
+  "ciudad": "MANATI",
+  "dpto": "08",
+  "cod_muni": "436",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08520",
+  "ciudad": "PALMAR DE VARELA",
+  "dpto": "08",
+  "cod_muni": "520",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08549",
+  "ciudad": "PIOJO",
+  "dpto": "08",
+  "cod_muni": "549",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08558",
+  "ciudad": "POLONUEVO",
+  "dpto": "08",
+  "cod_muni": "558",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08560",
+  "ciudad": "PONEDERA",
+  "dpto": "08",
+  "cod_muni": "560",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08573",
+  "ciudad": "PUERTO COLOMBIA",
+  "dpto": "08",
+  "cod_muni": "573",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08606",
+  "ciudad": "REPELON",
+  "dpto": "08",
+  "cod_muni": "606",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08634",
+  "ciudad": "SABANAGRANDE",
+  "dpto": "08",
+  "cod_muni": "634",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08638",
+  "ciudad": "SABANALARGA",
+  "dpto": "08",
+  "cod_muni": "638",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08675",
+  "ciudad": "SANTA LUCIA",
+  "dpto": "08",
+  "cod_muni": "675",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08685",
+  "ciudad": "SANTO TOMAS",
+  "dpto": "08",
+  "cod_muni": "685",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08758",
+  "ciudad": "SOLEDAD",
+  "dpto": "08",
+  "cod_muni": "758",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08770",
+  "ciudad": "SUAN",
+  "dpto": "08",
+  "cod_muni": "770",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08832",
+  "ciudad": "TUBARA",
+  "dpto": "08",
+  "cod_muni": "832",
+  "iddpto": 2
+ },
+ {
+  "codigo": "08849",
+  "ciudad": "USIACURI",
+  "dpto": "08",
+  "cod_muni": "849",
+  "iddpto": 2
+ },
+ {
+  "codigo": "11001",
+  "ciudad": "BOGOTA",
+  "dpto": "11",
+  "cod_muni": "001",
+  "iddpto": 3
+ },
+ {
+  "codigo": "13001",
+  "ciudad": "CARTAGENA",
+  "dpto": "13",
+  "cod_muni": "001",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13006",
+  "ciudad": "ACHI",
+  "dpto": "13",
+  "cod_muni": "006",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13030",
+  "ciudad": "ALTOS DEL ROSARIO",
+  "dpto": "13",
+  "cod_muni": "030",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13042",
+  "ciudad": "ARENAL",
+  "dpto": "13",
+  "cod_muni": "042",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13052",
+  "ciudad": "ARJONA",
+  "dpto": "13",
+  "cod_muni": "052",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13062",
+  "ciudad": "ARROYOHONDO",
+  "dpto": "13",
+  "cod_muni": "062",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13074",
+  "ciudad": "BARRANCO DE LOBA",
+  "dpto": "13",
+  "cod_muni": "074",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13140",
+  "ciudad": "CALAMAR",
+  "dpto": "13",
+  "cod_muni": "140",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13160",
+  "ciudad": "CANTAGALLO",
+  "dpto": "13",
+  "cod_muni": "160",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13188",
+  "ciudad": "CICUCO",
+  "dpto": "13",
+  "cod_muni": "188",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13212",
+  "ciudad": "CORDOBA",
+  "dpto": "13",
+  "cod_muni": "212",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13222",
+  "ciudad": "CLEMENCIA",
+  "dpto": "13",
+  "cod_muni": "222",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13244",
+  "ciudad": "EL CARMEN DE BOLIVAR",
+  "dpto": "13",
+  "cod_muni": "244",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13248",
+  "ciudad": "EL GUAMO",
+  "dpto": "13",
+  "cod_muni": "248",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13268",
+  "ciudad": "EL PEÑON",
+  "dpto": "13",
+  "cod_muni": "268",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13300",
+  "ciudad": "HATILLO DE LOBA",
+  "dpto": "13",
+  "cod_muni": "300",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13430",
+  "ciudad": "MAGANGUE",
+  "dpto": "13",
+  "cod_muni": "430",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13433",
+  "ciudad": "MAHATES",
+  "dpto": "13",
+  "cod_muni": "433",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13440",
+  "ciudad": "MARGARITA",
+  "dpto": "13",
+  "cod_muni": "440",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13442",
+  "ciudad": "MARIA LA BAJA",
+  "dpto": "13",
+  "cod_muni": "442",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13458",
+  "ciudad": "MONTECRISTO",
+  "dpto": "13",
+  "cod_muni": "458",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13468",
+  "ciudad": "MOMPOS",
+  "dpto": "13",
+  "cod_muni": "468",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13473",
+  "ciudad": "MORALES",
+  "dpto": "13",
+  "cod_muni": "473",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13549",
+  "ciudad": "PINILLOS",
+  "dpto": "13",
+  "cod_muni": "549",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13580",
+  "ciudad": "REGIDOR",
+  "dpto": "13",
+  "cod_muni": "580",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13600",
+  "ciudad": "RIO VIEJO",
+  "dpto": "13",
+  "cod_muni": "600",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13620",
+  "ciudad": "SAN CRISTOBAL",
+  "dpto": "13",
+  "cod_muni": "620",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13647",
+  "ciudad": "SAN ESTANISLAO",
+  "dpto": "13",
+  "cod_muni": "647",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13650",
+  "ciudad": "SAN FERNANDO",
+  "dpto": "13",
+  "cod_muni": "650",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13654",
+  "ciudad": "SAN JACINTO",
+  "dpto": "13",
+  "cod_muni": "654",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13655",
+  "ciudad": "SAN JACINTO DEL CAUCA",
+  "dpto": "13",
+  "cod_muni": "655",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13657",
+  "ciudad": "SAN JUAN NEPOMUCENO",
+  "dpto": "13",
+  "cod_muni": "657",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13667",
+  "ciudad": "SAN MARTIN DE LOBA",
+  "dpto": "13",
+  "cod_muni": "667",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13670",
+  "ciudad": "SAN PABLO",
+  "dpto": "13",
+  "cod_muni": "670",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13673",
+  "ciudad": "SANTA CATALINA",
+  "dpto": "13",
+  "cod_muni": "673",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13683",
+  "ciudad": "SANTA ROSA",
+  "dpto": "13",
+  "cod_muni": "683",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13688",
+  "ciudad": "SANTA ROSA DEL SUR",
+  "dpto": "13",
+  "cod_muni": "688",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13744",
+  "ciudad": "SIMITI",
+  "dpto": "13",
+  "cod_muni": "744",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13760",
+  "ciudad": "SOPLAVIENTO",
+  "dpto": "13",
+  "cod_muni": "760",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13780",
+  "ciudad": "TALAIGUA NUEVO",
+  "dpto": "13",
+  "cod_muni": "780",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13810",
+  "ciudad": "TIQUISIO",
+  "dpto": "13",
+  "cod_muni": "810",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13836",
+  "ciudad": "TURBACO",
+  "dpto": "13",
+  "cod_muni": "836",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13838",
+  "ciudad": "TURBANA",
+  "dpto": "13",
+  "cod_muni": "838",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13873",
+  "ciudad": "VILLANUEVA",
+  "dpto": "13",
+  "cod_muni": "873",
+  "iddpto": 4
+ },
+ {
+  "codigo": "13894",
+  "ciudad": "ZAMBRANO",
+  "dpto": "13",
+  "cod_muni": "894",
+  "iddpto": 4
+ },
+ {
+  "codigo": "15001",
+  "ciudad": "TUNJA",
+  "dpto": "15",
+  "cod_muni": "001",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15022",
+  "ciudad": "ALMEIDA",
+  "dpto": "15",
+  "cod_muni": "022",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15047",
+  "ciudad": "AQUITANIA",
+  "dpto": "15",
+  "cod_muni": "047",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15051",
+  "ciudad": "ARCABUCO",
+  "dpto": "15",
+  "cod_muni": "051",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15087",
+  "ciudad": "BELEN",
+  "dpto": "15",
+  "cod_muni": "087",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15090",
+  "ciudad": "BERBEO",
+  "dpto": "15",
+  "cod_muni": "090",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15092",
+  "ciudad": "BETEITIVA",
+  "dpto": "15",
+  "cod_muni": "092",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15097",
+  "ciudad": "BOAVITA",
+  "dpto": "15",
+  "cod_muni": "097",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15104",
+  "ciudad": "BOYACA",
+  "dpto": "15",
+  "cod_muni": "104",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15106",
+  "ciudad": "BRICEÑO",
+  "dpto": "15",
+  "cod_muni": "106",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15109",
+  "ciudad": "BUENAVISTA",
+  "dpto": "15",
+  "cod_muni": "109",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15114",
+  "ciudad": "BUSBANZA",
+  "dpto": "15",
+  "cod_muni": "114",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15131",
+  "ciudad": "CALDAS",
+  "dpto": "15",
+  "cod_muni": "131",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15135",
+  "ciudad": "CAMPOHERMOSO",
+  "dpto": "15",
+  "cod_muni": "135",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15162",
+  "ciudad": "CERINZA",
+  "dpto": "15",
+  "cod_muni": "162",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15172",
+  "ciudad": "CHINAVITA",
+  "dpto": "15",
+  "cod_muni": "172",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15176",
+  "ciudad": "CHIQUINQUIRA",
+  "dpto": "15",
+  "cod_muni": "176",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15180",
+  "ciudad": "CHISCAS",
+  "dpto": "15",
+  "cod_muni": "180",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15183",
+  "ciudad": "CHITA",
+  "dpto": "15",
+  "cod_muni": "183",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15185",
+  "ciudad": "CHITARAQUE",
+  "dpto": "15",
+  "cod_muni": "185",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15187",
+  "ciudad": "CHIVATA",
+  "dpto": "15",
+  "cod_muni": "187",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15189",
+  "ciudad": "CIENEGA",
+  "dpto": "15",
+  "cod_muni": "189",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15204",
+  "ciudad": "COMBITA",
+  "dpto": "15",
+  "cod_muni": "204",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15212",
+  "ciudad": "COPER",
+  "dpto": "15",
+  "cod_muni": "212",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15215",
+  "ciudad": "CORRALES",
+  "dpto": "15",
+  "cod_muni": "215",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15218",
+  "ciudad": "COVARACHIA",
+  "dpto": "15",
+  "cod_muni": "218",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15223",
+  "ciudad": "CUBARA",
+  "dpto": "15",
+  "cod_muni": "223",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15224",
+  "ciudad": "CUCAITA",
+  "dpto": "15",
+  "cod_muni": "224",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15226",
+  "ciudad": "CUITIVA",
+  "dpto": "15",
+  "cod_muni": "226",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15232",
+  "ciudad": "CHIQUIZA",
+  "dpto": "15",
+  "cod_muni": "232",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15236",
+  "ciudad": "CHIVOR",
+  "dpto": "15",
+  "cod_muni": "236",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15238",
+  "ciudad": "DUITAMA",
+  "dpto": "15",
+  "cod_muni": "238",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15244",
+  "ciudad": "EL COCUY",
+  "dpto": "15",
+  "cod_muni": "244",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15248",
+  "ciudad": "EL ESPINO",
+  "dpto": "15",
+  "cod_muni": "248",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15272",
+  "ciudad": "FIRAVITOBA",
+  "dpto": "15",
+  "cod_muni": "272",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15276",
+  "ciudad": "FLORESTA",
+  "dpto": "15",
+  "cod_muni": "276",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15293",
+  "ciudad": "GACHANTIVA",
+  "dpto": "15",
+  "cod_muni": "293",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15296",
+  "ciudad": "GAMEZA",
+  "dpto": "15",
+  "cod_muni": "296",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15299",
+  "ciudad": "GARAGOA",
+  "dpto": "15",
+  "cod_muni": "299",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15317",
+  "ciudad": "GUACAMAYAS",
+  "dpto": "15",
+  "cod_muni": "317",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15322",
+  "ciudad": "GUATEQUE",
+  "dpto": "15",
+  "cod_muni": "322",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15325",
+  "ciudad": "GUAYATA",
+  "dpto": "15",
+  "cod_muni": "325",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15332",
+  "ciudad": "GUICAN",
+  "dpto": "15",
+  "cod_muni": "332",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15362",
+  "ciudad": "IZA",
+  "dpto": "15",
+  "cod_muni": "362",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15367",
+  "ciudad": "JENESANO",
+  "dpto": "15",
+  "cod_muni": "367",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15368",
+  "ciudad": "JERICO",
+  "dpto": "15",
+  "cod_muni": "368",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15377",
+  "ciudad": "LABRANZAGRANDE",
+  "dpto": "15",
+  "cod_muni": "377",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15380",
+  "ciudad": "LA CAPILLA",
+  "dpto": "15",
+  "cod_muni": "380",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15401",
+  "ciudad": "LA VICTORIA",
+  "dpto": "15",
+  "cod_muni": "401",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15403",
+  "ciudad": "LA UVITA",
+  "dpto": "15",
+  "cod_muni": "403",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15407",
+  "ciudad": "VILLA DE LEYVA",
+  "dpto": "15",
+  "cod_muni": "407",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15425",
+  "ciudad": "MACANAL",
+  "dpto": "15",
+  "cod_muni": "425",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15442",
+  "ciudad": "MARIPI",
+  "dpto": "15",
+  "cod_muni": "442",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15455",
+  "ciudad": "MIRAFLORES",
+  "dpto": "15",
+  "cod_muni": "455",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15464",
+  "ciudad": "MONGUA",
+  "dpto": "15",
+  "cod_muni": "464",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15466",
+  "ciudad": "MONGUI",
+  "dpto": "15",
+  "cod_muni": "466",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15469",
+  "ciudad": "MONIQUIRA",
+  "dpto": "15",
+  "cod_muni": "469",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15476",
+  "ciudad": "MOTAVITA",
+  "dpto": "15",
+  "cod_muni": "476",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15480",
+  "ciudad": "MUZO",
+  "dpto": "15",
+  "cod_muni": "480",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15491",
+  "ciudad": "NOBSA",
+  "dpto": "15",
+  "cod_muni": "491",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15494",
+  "ciudad": "NUEVO COLON",
+  "dpto": "15",
+  "cod_muni": "494",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15500",
+  "ciudad": "OICATA",
+  "dpto": "15",
+  "cod_muni": "500",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15507",
+  "ciudad": "OTANCHE",
+  "dpto": "15",
+  "cod_muni": "507",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15511",
+  "ciudad": "PACHAVITA",
+  "dpto": "15",
+  "cod_muni": "511",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15514",
+  "ciudad": "PAEZ",
+  "dpto": "15",
+  "cod_muni": "514",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15516",
+  "ciudad": "PAIPA",
+  "dpto": "15",
+  "cod_muni": "516",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15518",
+  "ciudad": "PAJARITO",
+  "dpto": "15",
+  "cod_muni": "518",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15522",
+  "ciudad": "PANQUEBA",
+  "dpto": "15",
+  "cod_muni": "522",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15531",
+  "ciudad": "PAUNA",
+  "dpto": "15",
+  "cod_muni": "531",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15533",
+  "ciudad": "PAYA",
+  "dpto": "15",
+  "cod_muni": "533",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15537",
+  "ciudad": "PAZ DE RIO",
+  "dpto": "15",
+  "cod_muni": "537",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15542",
+  "ciudad": "PESCA",
+  "dpto": "15",
+  "cod_muni": "542",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15550",
+  "ciudad": "PISBA",
+  "dpto": "15",
+  "cod_muni": "550",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15572",
+  "ciudad": "PUERTO BOYACA",
+  "dpto": "15",
+  "cod_muni": "572",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15580",
+  "ciudad": "QUIPAMA",
+  "dpto": "15",
+  "cod_muni": "580",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15599",
+  "ciudad": "RAMIRIQUI",
+  "dpto": "15",
+  "cod_muni": "599",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15600",
+  "ciudad": "RAQUIRA",
+  "dpto": "15",
+  "cod_muni": "600",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15621",
+  "ciudad": "RONDON",
+  "dpto": "15",
+  "cod_muni": "621",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15632",
+  "ciudad": "SABOYA",
+  "dpto": "15",
+  "cod_muni": "632",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15638",
+  "ciudad": "SACHICA",
+  "dpto": "15",
+  "cod_muni": "638",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15646",
+  "ciudad": "SAMACA",
+  "dpto": "15",
+  "cod_muni": "646",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15660",
+  "ciudad": "SAN EDUARDO",
+  "dpto": "15",
+  "cod_muni": "660",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15664",
+  "ciudad": "SAN JOSE DE PARE",
+  "dpto": "15",
+  "cod_muni": "664",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15667",
+  "ciudad": "SAN LUIS DE GACENO",
+  "dpto": "15",
+  "cod_muni": "667",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15673",
+  "ciudad": "SAN MATEO",
+  "dpto": "15",
+  "cod_muni": "673",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15676",
+  "ciudad": "SAN MIGUEL DE SEMA",
+  "dpto": "15",
+  "cod_muni": "676",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15681",
+  "ciudad": "SAN PABLO DE BORBUR",
+  "dpto": "15",
+  "cod_muni": "681",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15686",
+  "ciudad": "SANTANA",
+  "dpto": "15",
+  "cod_muni": "686",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15690",
+  "ciudad": "SANTA MARIA",
+  "dpto": "15",
+  "cod_muni": "690",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15693",
+  "ciudad": "SANTA ROSA DE VITERBO",
+  "dpto": "15",
+  "cod_muni": "693",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15696",
+  "ciudad": "SANTA SOFIA",
+  "dpto": "15",
+  "cod_muni": "696",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15720",
+  "ciudad": "SATIVANORTE",
+  "dpto": "15",
+  "cod_muni": "720",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15723",
+  "ciudad": "SATIVASUR",
+  "dpto": "15",
+  "cod_muni": "723",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15740",
+  "ciudad": "SIACHOQUE",
+  "dpto": "15",
+  "cod_muni": "740",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15753",
+  "ciudad": "SOATA",
+  "dpto": "15",
+  "cod_muni": "753",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15755",
+  "ciudad": "SOCOTA",
+  "dpto": "15",
+  "cod_muni": "755",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15757",
+  "ciudad": "SOCHA",
+  "dpto": "15",
+  "cod_muni": "757",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15759",
+  "ciudad": "SOGAMOSO",
+  "dpto": "15",
+  "cod_muni": "759",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15761",
+  "ciudad": "SOMONDOCO",
+  "dpto": "15",
+  "cod_muni": "761",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15762",
+  "ciudad": "SORA",
+  "dpto": "15",
+  "cod_muni": "762",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15763",
+  "ciudad": "SOTAQUIRA",
+  "dpto": "15",
+  "cod_muni": "763",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15764",
+  "ciudad": "SORACA",
+  "dpto": "15",
+  "cod_muni": "764",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15774",
+  "ciudad": "SUSACON",
+  "dpto": "15",
+  "cod_muni": "774",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15776",
+  "ciudad": "SUTAMARCHAN",
+  "dpto": "15",
+  "cod_muni": "776",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15778",
+  "ciudad": "SUTATENZA",
+  "dpto": "15",
+  "cod_muni": "778",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15790",
+  "ciudad": "TASCO",
+  "dpto": "15",
+  "cod_muni": "790",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15798",
+  "ciudad": "TENZA",
+  "dpto": "15",
+  "cod_muni": "798",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15804",
+  "ciudad": "TIBANA",
+  "dpto": "15",
+  "cod_muni": "804",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15806",
+  "ciudad": "TIBASOSA",
+  "dpto": "15",
+  "cod_muni": "806",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15808",
+  "ciudad": "TINJACA",
+  "dpto": "15",
+  "cod_muni": "808",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15810",
+  "ciudad": "TIPACOQUE",
+  "dpto": "15",
+  "cod_muni": "810",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15814",
+  "ciudad": "TOCA",
+  "dpto": "15",
+  "cod_muni": "814",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15816",
+  "ciudad": "TOGUI",
+  "dpto": "15",
+  "cod_muni": "816",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15820",
+  "ciudad": "TOPAGA",
+  "dpto": "15",
+  "cod_muni": "820",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15822",
+  "ciudad": "TOTA",
+  "dpto": "15",
+  "cod_muni": "822",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15832",
+  "ciudad": "TUNUNGUA",
+  "dpto": "15",
+  "cod_muni": "832",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15835",
+  "ciudad": "TURMEQUE",
+  "dpto": "15",
+  "cod_muni": "835",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15837",
+  "ciudad": "TUTA",
+  "dpto": "15",
+  "cod_muni": "837",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15839",
+  "ciudad": "TUTAZA",
+  "dpto": "15",
+  "cod_muni": "839",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15842",
+  "ciudad": "UMBITA",
+  "dpto": "15",
+  "cod_muni": "842",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15861",
+  "ciudad": "VENTAQUEMADA",
+  "dpto": "15",
+  "cod_muni": "861",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15879",
+  "ciudad": "VIRACACHA",
+  "dpto": "15",
+  "cod_muni": "879",
+  "iddpto": 5
+ },
+ {
+  "codigo": "15897",
+  "ciudad": "ZETAQUIRA",
+  "dpto": "15",
+  "cod_muni": "897",
+  "iddpto": 5
+ },
+ {
+  "codigo": "17001",
+  "ciudad": "MANIZALES",
+  "dpto": "17",
+  "cod_muni": "001",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17013",
+  "ciudad": "AGUADAS",
+  "dpto": "17",
+  "cod_muni": "013",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17042",
+  "ciudad": "ANSERMA",
+  "dpto": "17",
+  "cod_muni": "042",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17050",
+  "ciudad": "ARANZAZU",
+  "dpto": "17",
+  "cod_muni": "050",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17088",
+  "ciudad": "BELALCAZAR",
+  "dpto": "17",
+  "cod_muni": "088",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17174",
+  "ciudad": "CHINCHINA",
+  "dpto": "17",
+  "cod_muni": "174",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17272",
+  "ciudad": "FILADELFIA",
+  "dpto": "17",
+  "cod_muni": "272",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17380",
+  "ciudad": "LA DORADA",
+  "dpto": "17",
+  "cod_muni": "380",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17388",
+  "ciudad": "LA MERCED",
+  "dpto": "17",
+  "cod_muni": "388",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17433",
+  "ciudad": "MANZANARES",
+  "dpto": "17",
+  "cod_muni": "433",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17442",
+  "ciudad": "MARMATO",
+  "dpto": "17",
+  "cod_muni": "442",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17444",
+  "ciudad": "MARQUETALIA",
+  "dpto": "17",
+  "cod_muni": "444",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17446",
+  "ciudad": "MARULANDA",
+  "dpto": "17",
+  "cod_muni": "446",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17486",
+  "ciudad": "NEIRA",
+  "dpto": "17",
+  "cod_muni": "486",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17495",
+  "ciudad": "NORCASIA",
+  "dpto": "17",
+  "cod_muni": "495",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17513",
+  "ciudad": "PACORA",
+  "dpto": "17",
+  "cod_muni": "513",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17524",
+  "ciudad": "PALESTINA",
+  "dpto": "17",
+  "cod_muni": "524",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17541",
+  "ciudad": "PENSILVANIA",
+  "dpto": "17",
+  "cod_muni": "541",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17614",
+  "ciudad": "RIOSUCIO",
+  "dpto": "17",
+  "cod_muni": "614",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17616",
+  "ciudad": "RISARALDA",
+  "dpto": "17",
+  "cod_muni": "616",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17653",
+  "ciudad": "SALAMINA",
+  "dpto": "17",
+  "cod_muni": "653",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17662",
+  "ciudad": "SAMANA",
+  "dpto": "17",
+  "cod_muni": "662",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17665",
+  "ciudad": "SAN JOSE",
+  "dpto": "17",
+  "cod_muni": "665",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17777",
+  "ciudad": "SUPIA",
+  "dpto": "17",
+  "cod_muni": "777",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17867",
+  "ciudad": "VICTORIA",
+  "dpto": "17",
+  "cod_muni": "867",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17873",
+  "ciudad": "VILLAMARIA",
+  "dpto": "17",
+  "cod_muni": "873",
+  "iddpto": 6
+ },
+ {
+  "codigo": "17877",
+  "ciudad": "VITERBO",
+  "dpto": "17",
+  "cod_muni": "877",
+  "iddpto": 6
+ },
+ {
+  "codigo": "18001",
+  "ciudad": "FLORENCIA",
+  "dpto": "18",
+  "cod_muni": "001",
+  "iddpto": 7
+ },
+ {
+  "codigo": "18029",
+  "ciudad": "ALBANIA",
+  "dpto": "18",
+  "cod_muni": "029",
+  "iddpto": 7
+ },
+ {
+  "codigo": "18094",
+  "ciudad": "BELEN DE LOS ANDAQUIES",
+  "dpto": "18",
+  "cod_muni": "094",
+  "iddpto": 7
+ },
+ {
+  "codigo": "18150",
+  "ciudad": "CARTAGENA DEL CHAIRA",
+  "dpto": "18",
+  "cod_muni": "150",
+  "iddpto": 7
+ },
+ {
+  "codigo": "18205",
+  "ciudad": "CURILLO",
+  "dpto": "18",
+  "cod_muni": "205",
+  "iddpto": 7
+ },
+ {
+  "codigo": "18247",
+  "ciudad": "EL DONCELLO",
+  "dpto": "18",
+  "cod_muni": "247",
+  "iddpto": 7
+ },
+ {
+  "codigo": "18256",
+  "ciudad": "EL PAUJIL",
+  "dpto": "18",
+  "cod_muni": "256",
+  "iddpto": 7
+ },
+ {
+  "codigo": "18410",
+  "ciudad": "LA MONTAÑITA",
+  "dpto": "18",
+  "cod_muni": "410",
+  "iddpto": 7
+ },
+ {
+  "codigo": "18460",
+  "ciudad": "MILAN",
+  "dpto": "18",
+  "cod_muni": "460",
+  "iddpto": 7
+ },
+ {
+  "codigo": "18479",
+  "ciudad": "MORELIA",
+  "dpto": "18",
+  "cod_muni": "479",
+  "iddpto": 7
+ },
+ {
+  "codigo": "18592",
+  "ciudad": "PUERTO RICO",
+  "dpto": "18",
+  "cod_muni": "592",
+  "iddpto": 7
+ },
+ {
+  "codigo": "18610",
+  "ciudad": "SAN JOSE DEL FRAGUA",
+  "dpto": "18",
+  "cod_muni": "610",
+  "iddpto": 7
+ },
+ {
+  "codigo": "18753",
+  "ciudad": "SAN VICENTE DEL CAGUAN",
+  "dpto": "18",
+  "cod_muni": "753",
+  "iddpto": 7
+ },
+ {
+  "codigo": "18756",
+  "ciudad": "SOLANO",
+  "dpto": "18",
+  "cod_muni": "756",
+  "iddpto": 7
+ },
+ {
+  "codigo": "18785",
+  "ciudad": "SOLITA",
+  "dpto": "18",
+  "cod_muni": "785",
+  "iddpto": 7
+ },
+ {
+  "codigo": "18860",
+  "ciudad": "VALPARAISO",
+  "dpto": "18",
+  "cod_muni": "860",
+  "iddpto": 7
+ },
+ {
+  "codigo": "19001",
+  "ciudad": "POPAYAN",
+  "dpto": "19",
+  "cod_muni": "001",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19022",
+  "ciudad": "ALMAGUER",
+  "dpto": "19",
+  "cod_muni": "022",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19050",
+  "ciudad": "ARGELIA",
+  "dpto": "19",
+  "cod_muni": "050",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19075",
+  "ciudad": "BALBOA",
+  "dpto": "19",
+  "cod_muni": "075",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19100",
+  "ciudad": "BOLIVAR",
+  "dpto": "19",
+  "cod_muni": "100",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19110",
+  "ciudad": "BUENOS AIRES",
+  "dpto": "19",
+  "cod_muni": "110",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19130",
+  "ciudad": "CAJIBIO",
+  "dpto": "19",
+  "cod_muni": "130",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19137",
+  "ciudad": "CALDONO",
+  "dpto": "19",
+  "cod_muni": "137",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19142",
+  "ciudad": "CALOTO",
+  "dpto": "19",
+  "cod_muni": "142",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19212",
+  "ciudad": "CORINTO",
+  "dpto": "19",
+  "cod_muni": "212",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19256",
+  "ciudad": "EL TAMBO",
+  "dpto": "19",
+  "cod_muni": "256",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19290",
+  "ciudad": "FLORENCIA",
+  "dpto": "19",
+  "cod_muni": "290",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19318",
+  "ciudad": "GUAPI",
+  "dpto": "19",
+  "cod_muni": "318",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19355",
+  "ciudad": "INZA",
+  "dpto": "19",
+  "cod_muni": "355",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19364",
+  "ciudad": "JAMBALO",
+  "dpto": "19",
+  "cod_muni": "364",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19392",
+  "ciudad": "LA SIERRA",
+  "dpto": "19",
+  "cod_muni": "392",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19397",
+  "ciudad": "LA VEGA",
+  "dpto": "19",
+  "cod_muni": "397",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19418",
+  "ciudad": "LOPEZ",
+  "dpto": "19",
+  "cod_muni": "418",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19450",
+  "ciudad": "MERCADERES",
+  "dpto": "19",
+  "cod_muni": "450",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19455",
+  "ciudad": "MIRANDA",
+  "dpto": "19",
+  "cod_muni": "455",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19473",
+  "ciudad": "MORALES",
+  "dpto": "19",
+  "cod_muni": "473",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19513",
+  "ciudad": "PADILLA",
+  "dpto": "19",
+  "cod_muni": "513",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19517",
+  "ciudad": "PAEZ",
+  "dpto": "19",
+  "cod_muni": "517",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19532",
+  "ciudad": "PATIA",
+  "dpto": "19",
+  "cod_muni": "532",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19533",
+  "ciudad": "PIAMONTE",
+  "dpto": "19",
+  "cod_muni": "533",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19548",
+  "ciudad": "PIENDAMO",
+  "dpto": "19",
+  "cod_muni": "548",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19573",
+  "ciudad": "PUERTO TEJADA",
+  "dpto": "19",
+  "cod_muni": "573",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19585",
+  "ciudad": "PURACE",
+  "dpto": "19",
+  "cod_muni": "585",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19622",
+  "ciudad": "ROSAS",
+  "dpto": "19",
+  "cod_muni": "622",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19693",
+  "ciudad": "SAN SEBASTIAN",
+  "dpto": "19",
+  "cod_muni": "693",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19698",
+  "ciudad": "SANTANDER DE QUILICHAO",
+  "dpto": "19",
+  "cod_muni": "698",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19701",
+  "ciudad": "SANTA ROSA",
+  "dpto": "19",
+  "cod_muni": "701",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19743",
+  "ciudad": "SILVIA",
+  "dpto": "19",
+  "cod_muni": "743",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19760",
+  "ciudad": "SOTARA",
+  "dpto": "19",
+  "cod_muni": "760",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19780",
+  "ciudad": "SUAREZ",
+  "dpto": "19",
+  "cod_muni": "780",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19785",
+  "ciudad": "SUCRE",
+  "dpto": "19",
+  "cod_muni": "785",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19807",
+  "ciudad": "TIMBIO",
+  "dpto": "19",
+  "cod_muni": "807",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19809",
+  "ciudad": "TIMBIQUI",
+  "dpto": "19",
+  "cod_muni": "809",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19821",
+  "ciudad": "TORIBIO",
+  "dpto": "19",
+  "cod_muni": "821",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19824",
+  "ciudad": "TOTORO",
+  "dpto": "19",
+  "cod_muni": "824",
+  "iddpto": 8
+ },
+ {
+  "codigo": "19845",
+  "ciudad": "VILLA RICA",
+  "dpto": "19",
+  "cod_muni": "845",
+  "iddpto": 8
+ },
+ {
+  "codigo": "20001",
+  "ciudad": "VALLEDUPAR",
+  "dpto": "20",
+  "cod_muni": "001",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20011",
+  "ciudad": "AGUACHICA",
+  "dpto": "20",
+  "cod_muni": "011",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20013",
+  "ciudad": "AGUSTIN CODAZZI",
+  "dpto": "20",
+  "cod_muni": "013",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20032",
+  "ciudad": "ASTREA",
+  "dpto": "20",
+  "cod_muni": "032",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20045",
+  "ciudad": "BECERRIL",
+  "dpto": "20",
+  "cod_muni": "045",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20060",
+  "ciudad": "BOSCONIA",
+  "dpto": "20",
+  "cod_muni": "060",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20175",
+  "ciudad": "CHIMICHAGUA",
+  "dpto": "20",
+  "cod_muni": "175",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20178",
+  "ciudad": "CHIRIGUANA",
+  "dpto": "20",
+  "cod_muni": "178",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20228",
+  "ciudad": "CURUMANI",
+  "dpto": "20",
+  "cod_muni": "228",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20238",
+  "ciudad": "EL COPEY",
+  "dpto": "20",
+  "cod_muni": "238",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20250",
+  "ciudad": "EL PASO",
+  "dpto": "20",
+  "cod_muni": "250",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20295",
+  "ciudad": "GAMARRA",
+  "dpto": "20",
+  "cod_muni": "295",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20310",
+  "ciudad": "GONZALEZ",
+  "dpto": "20",
+  "cod_muni": "310",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20383",
+  "ciudad": "LA GLORIA",
+  "dpto": "20",
+  "cod_muni": "383",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20400",
+  "ciudad": "LA JAGUA DE IBIRICO",
+  "dpto": "20",
+  "cod_muni": "400",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20443",
+  "ciudad": "MANAURE",
+  "dpto": "20",
+  "cod_muni": "443",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20517",
+  "ciudad": "PAILITAS",
+  "dpto": "20",
+  "cod_muni": "517",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20550",
+  "ciudad": "PELAYA",
+  "dpto": "20",
+  "cod_muni": "550",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20570",
+  "ciudad": "PUEBLO BELLO",
+  "dpto": "20",
+  "cod_muni": "570",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20614",
+  "ciudad": "RIO DE ORO",
+  "dpto": "20",
+  "cod_muni": "614",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20621",
+  "ciudad": "LA PAZ",
+  "dpto": "20",
+  "cod_muni": "621",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20710",
+  "ciudad": "SAN ALBERTO",
+  "dpto": "20",
+  "cod_muni": "710",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20750",
+  "ciudad": "SAN DIEGO",
+  "dpto": "20",
+  "cod_muni": "750",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20770",
+  "ciudad": "SAN MARTIN",
+  "dpto": "20",
+  "cod_muni": "770",
+  "iddpto": 9
+ },
+ {
+  "codigo": "20787",
+  "ciudad": "TAMALAMEQUE",
+  "dpto": "20",
+  "cod_muni": "787",
+  "iddpto": 9
+ },
+ {
+  "codigo": "23001",
+  "ciudad": "MONTERIA",
+  "dpto": "23",
+  "cod_muni": "001",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23068",
+  "ciudad": "AYAPEL",
+  "dpto": "23",
+  "cod_muni": "068",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23079",
+  "ciudad": "BUENAVISTA",
+  "dpto": "23",
+  "cod_muni": "079",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23090",
+  "ciudad": "CANALETE",
+  "dpto": "23",
+  "cod_muni": "090",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23162",
+  "ciudad": "CERETE",
+  "dpto": "23",
+  "cod_muni": "162",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23168",
+  "ciudad": "CHIMA",
+  "dpto": "23",
+  "cod_muni": "168",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23182",
+  "ciudad": "CHINU",
+  "dpto": "23",
+  "cod_muni": "182",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23189",
+  "ciudad": "CIENAGA DE ORO",
+  "dpto": "23",
+  "cod_muni": "189",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23300",
+  "ciudad": "COTORRA",
+  "dpto": "23",
+  "cod_muni": "300",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23350",
+  "ciudad": "LA APARTADA",
+  "dpto": "23",
+  "cod_muni": "350",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23417",
+  "ciudad": "LORICA",
+  "dpto": "23",
+  "cod_muni": "417",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23419",
+  "ciudad": "LOS CORDOBAS",
+  "dpto": "23",
+  "cod_muni": "419",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23464",
+  "ciudad": "MOMIL",
+  "dpto": "23",
+  "cod_muni": "464",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23466",
+  "ciudad": "MONTELIBANO",
+  "dpto": "23",
+  "cod_muni": "466",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23500",
+  "ciudad": "MOÑITOS",
+  "dpto": "23",
+  "cod_muni": "500",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23555",
+  "ciudad": "PLANETA RICA",
+  "dpto": "23",
+  "cod_muni": "555",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23570",
+  "ciudad": "PUEBLO NUEVO",
+  "dpto": "23",
+  "cod_muni": "570",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23574",
+  "ciudad": "PUERTO ESCONDIDO",
+  "dpto": "23",
+  "cod_muni": "574",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23580",
+  "ciudad": "PUERTO LIBERTADOR",
+  "dpto": "23",
+  "cod_muni": "580",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23586",
+  "ciudad": "PURISIMA",
+  "dpto": "23",
+  "cod_muni": "586",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23660",
+  "ciudad": "SAHAGUN",
+  "dpto": "23",
+  "cod_muni": "660",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23670",
+  "ciudad": "SAN ANDRES SOTAVENTO",
+  "dpto": "23",
+  "cod_muni": "670",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23672",
+  "ciudad": "SAN ANTERO",
+  "dpto": "23",
+  "cod_muni": "672",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23675",
+  "ciudad": "SAN BERNARDO DEL VIENTO",
+  "dpto": "23",
+  "cod_muni": "675",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23678",
+  "ciudad": "SAN CARLOS",
+  "dpto": "23",
+  "cod_muni": "678",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23686",
+  "ciudad": "SAN PELAYO",
+  "dpto": "23",
+  "cod_muni": "686",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23807",
+  "ciudad": "TIERRALTA",
+  "dpto": "23",
+  "cod_muni": "807",
+  "iddpto": 10
+ },
+ {
+  "codigo": "23855",
+  "ciudad": "VALENCIA",
+  "dpto": "23",
+  "cod_muni": "855",
+  "iddpto": 10
+ },
+ {
+  "codigo": "25001",
+  "ciudad": "AGUA DE DIOS",
+  "dpto": "25",
+  "cod_muni": "001",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25019",
+  "ciudad": "ALBAN",
+  "dpto": "25",
+  "cod_muni": "019",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25035",
+  "ciudad": "ANAPOIMA",
+  "dpto": "25",
+  "cod_muni": "035",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25040",
+  "ciudad": "ANOLAIMA",
+  "dpto": "25",
+  "cod_muni": "040",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25053",
+  "ciudad": "ARBELAEZ",
+  "dpto": "25",
+  "cod_muni": "053",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25086",
+  "ciudad": "BELTRAN",
+  "dpto": "25",
+  "cod_muni": "086",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25095",
+  "ciudad": "BITUIMA",
+  "dpto": "25",
+  "cod_muni": "095",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25099",
+  "ciudad": "BOJACA",
+  "dpto": "25",
+  "cod_muni": "099",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25120",
+  "ciudad": "CABRERA",
+  "dpto": "25",
+  "cod_muni": "120",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25123",
+  "ciudad": "CACHIPAY",
+  "dpto": "25",
+  "cod_muni": "123",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25126",
+  "ciudad": "CAJICA",
+  "dpto": "25",
+  "cod_muni": "126",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25148",
+  "ciudad": "CAPARRAPI",
+  "dpto": "25",
+  "cod_muni": "148",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25151",
+  "ciudad": "CAQUEZA",
+  "dpto": "25",
+  "cod_muni": "151",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25154",
+  "ciudad": "CARMEN DE CARUPA",
+  "dpto": "25",
+  "cod_muni": "154",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25168",
+  "ciudad": "CHAGUANI",
+  "dpto": "25",
+  "cod_muni": "168",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25175",
+  "ciudad": "CHIA",
+  "dpto": "25",
+  "cod_muni": "175",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25178",
+  "ciudad": "CHIPAQUE",
+  "dpto": "25",
+  "cod_muni": "178",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25181",
+  "ciudad": "CHOACHI",
+  "dpto": "25",
+  "cod_muni": "181",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25183",
+  "ciudad": "CHOCONTA",
+  "dpto": "25",
+  "cod_muni": "183",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25200",
+  "ciudad": "COGUA",
+  "dpto": "25",
+  "cod_muni": "200",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25214",
+  "ciudad": "COTA",
+  "dpto": "25",
+  "cod_muni": "214",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25224",
+  "ciudad": "CUCUNUBA",
+  "dpto": "25",
+  "cod_muni": "224",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25245",
+  "ciudad": "EL COLEGIO",
+  "dpto": "25",
+  "cod_muni": "245",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25258",
+  "ciudad": "EL PEÑON",
+  "dpto": "25",
+  "cod_muni": "258",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25260",
+  "ciudad": "EL ROSAL",
+  "dpto": "25",
+  "cod_muni": "260",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25269",
+  "ciudad": "FACATATIVA",
+  "dpto": "25",
+  "cod_muni": "269",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25279",
+  "ciudad": "FOMEQUE",
+  "dpto": "25",
+  "cod_muni": "279",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25281",
+  "ciudad": "FOSCA",
+  "dpto": "25",
+  "cod_muni": "281",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25286",
+  "ciudad": "FUNZA",
+  "dpto": "25",
+  "cod_muni": "286",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25288",
+  "ciudad": "FUQUENE",
+  "dpto": "25",
+  "cod_muni": "288",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25290",
+  "ciudad": "FUSAGASUGA",
+  "dpto": "25",
+  "cod_muni": "290",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25293",
+  "ciudad": "GACHALA",
+  "dpto": "25",
+  "cod_muni": "293",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25295",
+  "ciudad": "GACHANCIPA",
+  "dpto": "25",
+  "cod_muni": "295",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25297",
+  "ciudad": "GACHETA",
+  "dpto": "25",
+  "cod_muni": "297",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25299",
+  "ciudad": "GAMA",
+  "dpto": "25",
+  "cod_muni": "299",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25307",
+  "ciudad": "GIRARDOT",
+  "dpto": "25",
+  "cod_muni": "307",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25312",
+  "ciudad": "GRANADA",
+  "dpto": "25",
+  "cod_muni": "312",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25317",
+  "ciudad": "GUACHETA",
+  "dpto": "25",
+  "cod_muni": "317",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25320",
+  "ciudad": "GUADUAS",
+  "dpto": "25",
+  "cod_muni": "320",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25322",
+  "ciudad": "GUASCA",
+  "dpto": "25",
+  "cod_muni": "322",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25324",
+  "ciudad": "GUATAQUI",
+  "dpto": "25",
+  "cod_muni": "324",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25326",
+  "ciudad": "GUATAVITA",
+  "dpto": "25",
+  "cod_muni": "326",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25328",
+  "ciudad": "GUAYABAL DE SIQUIMA",
+  "dpto": "25",
+  "cod_muni": "328",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25335",
+  "ciudad": "GUAYABETAL",
+  "dpto": "25",
+  "cod_muni": "335",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25339",
+  "ciudad": "GUTIERREZ",
+  "dpto": "25",
+  "cod_muni": "339",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25368",
+  "ciudad": "JERUSALEN",
+  "dpto": "25",
+  "cod_muni": "368",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25372",
+  "ciudad": "JUNIN",
+  "dpto": "25",
+  "cod_muni": "372",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25377",
+  "ciudad": "LA CALERA",
+  "dpto": "25",
+  "cod_muni": "377",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25386",
+  "ciudad": "LA MESA",
+  "dpto": "25",
+  "cod_muni": "386",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25394",
+  "ciudad": "LA PALMA",
+  "dpto": "25",
+  "cod_muni": "394",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25398",
+  "ciudad": "LA PEÑA",
+  "dpto": "25",
+  "cod_muni": "398",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25402",
+  "ciudad": "LA VEGA",
+  "dpto": "25",
+  "cod_muni": "402",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25407",
+  "ciudad": "LENGUAZAQUE",
+  "dpto": "25",
+  "cod_muni": "407",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25426",
+  "ciudad": "MACHETA",
+  "dpto": "25",
+  "cod_muni": "426",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25430",
+  "ciudad": "MADRID",
+  "dpto": "25",
+  "cod_muni": "430",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25436",
+  "ciudad": "MANTA",
+  "dpto": "25",
+  "cod_muni": "436",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25438",
+  "ciudad": "MEDINA",
+  "dpto": "25",
+  "cod_muni": "438",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25473",
+  "ciudad": "MOSQUERA",
+  "dpto": "25",
+  "cod_muni": "473",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25483",
+  "ciudad": "NARIÑO",
+  "dpto": "25",
+  "cod_muni": "483",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25486",
+  "ciudad": "NEMOCON",
+  "dpto": "25",
+  "cod_muni": "486",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25488",
+  "ciudad": "NILO",
+  "dpto": "25",
+  "cod_muni": "488",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25489",
+  "ciudad": "NIMAIMA",
+  "dpto": "25",
+  "cod_muni": "489",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25491",
+  "ciudad": "NOCAIMA",
+  "dpto": "25",
+  "cod_muni": "491",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25506",
+  "ciudad": "VENECIA",
+  "dpto": "25",
+  "cod_muni": "506",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25513",
+  "ciudad": "PACHO",
+  "dpto": "25",
+  "cod_muni": "513",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25518",
+  "ciudad": "PAIME",
+  "dpto": "25",
+  "cod_muni": "518",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25524",
+  "ciudad": "PANDI",
+  "dpto": "25",
+  "cod_muni": "524",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25530",
+  "ciudad": "PARATEBUENO",
+  "dpto": "25",
+  "cod_muni": "530",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25535",
+  "ciudad": "PASCA",
+  "dpto": "25",
+  "cod_muni": "535",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25572",
+  "ciudad": "PUERTO SALGAR",
+  "dpto": "25",
+  "cod_muni": "572",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25580",
+  "ciudad": "PULI",
+  "dpto": "25",
+  "cod_muni": "580",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25592",
+  "ciudad": "QUEBRADANEGRA",
+  "dpto": "25",
+  "cod_muni": "592",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25594",
+  "ciudad": "QUETAME",
+  "dpto": "25",
+  "cod_muni": "594",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25596",
+  "ciudad": "QUIPILE",
+  "dpto": "25",
+  "cod_muni": "596",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25599",
+  "ciudad": "APULO",
+  "dpto": "25",
+  "cod_muni": "599",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25612",
+  "ciudad": "RICAURTE",
+  "dpto": "25",
+  "cod_muni": "612",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25645",
+  "ciudad": "SAN ANTONIO DEL TEQUENDAMA",
+  "dpto": "25",
+  "cod_muni": "645",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25649",
+  "ciudad": "SAN BERNARDO",
+  "dpto": "25",
+  "cod_muni": "649",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25653",
+  "ciudad": "SAN CAYETANO",
+  "dpto": "25",
+  "cod_muni": "653",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25658",
+  "ciudad": "SAN FRANCISCO",
+  "dpto": "25",
+  "cod_muni": "658",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25662",
+  "ciudad": "SAN JUAN DE RIO SECO",
+  "dpto": "25",
+  "cod_muni": "662",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25718",
+  "ciudad": "SASAIMA",
+  "dpto": "25",
+  "cod_muni": "718",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25736",
+  "ciudad": "SESQUILE",
+  "dpto": "25",
+  "cod_muni": "736",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25740",
+  "ciudad": "SIBATE",
+  "dpto": "25",
+  "cod_muni": "740",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25743",
+  "ciudad": "SILVANIA",
+  "dpto": "25",
+  "cod_muni": "743",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25745",
+  "ciudad": "SIMIJACA",
+  "dpto": "25",
+  "cod_muni": "745",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25754",
+  "ciudad": "SOACHA",
+  "dpto": "25",
+  "cod_muni": "754",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25758",
+  "ciudad": "SOPO",
+  "dpto": "25",
+  "cod_muni": "758",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25769",
+  "ciudad": "SUBACHOQUE",
+  "dpto": "25",
+  "cod_muni": "769",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25772",
+  "ciudad": "SUESCA",
+  "dpto": "25",
+  "cod_muni": "772",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25777",
+  "ciudad": "SUPATA",
+  "dpto": "25",
+  "cod_muni": "777",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25779",
+  "ciudad": "SUSA",
+  "dpto": "25",
+  "cod_muni": "779",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25781",
+  "ciudad": "SUTATAUSA",
+  "dpto": "25",
+  "cod_muni": "781",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25785",
+  "ciudad": "TABIO",
+  "dpto": "25",
+  "cod_muni": "785",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25793",
+  "ciudad": "TAUSA",
+  "dpto": "25",
+  "cod_muni": "793",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25797",
+  "ciudad": "TENA",
+  "dpto": "25",
+  "cod_muni": "797",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25799",
+  "ciudad": "TENJO",
+  "dpto": "25",
+  "cod_muni": "799",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25805",
+  "ciudad": "TIBACUY",
+  "dpto": "25",
+  "cod_muni": "805",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25807",
+  "ciudad": "TIBIRITA",
+  "dpto": "25",
+  "cod_muni": "807",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25815",
+  "ciudad": "TOCAIMA",
+  "dpto": "25",
+  "cod_muni": "815",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25817",
+  "ciudad": "TOCANCIPA",
+  "dpto": "25",
+  "cod_muni": "817",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25823",
+  "ciudad": "TOPAIPI",
+  "dpto": "25",
+  "cod_muni": "823",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25839",
+  "ciudad": "UBALA",
+  "dpto": "25",
+  "cod_muni": "839",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25841",
+  "ciudad": "UBAQUE",
+  "dpto": "25",
+  "cod_muni": "841",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25843",
+  "ciudad": "VILLA DE SAN DIEGO DE UBATE",
+  "dpto": "25",
+  "cod_muni": "843",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25845",
+  "ciudad": "UNE",
+  "dpto": "25",
+  "cod_muni": "845",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25851",
+  "ciudad": "UTICA",
+  "dpto": "25",
+  "cod_muni": "851",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25862",
+  "ciudad": "VERGARA",
+  "dpto": "25",
+  "cod_muni": "862",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25867",
+  "ciudad": "VIANI",
+  "dpto": "25",
+  "cod_muni": "867",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25871",
+  "ciudad": "VILLAGOMEZ",
+  "dpto": "25",
+  "cod_muni": "871",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25873",
+  "ciudad": "VILLAPINZON",
+  "dpto": "25",
+  "cod_muni": "873",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25875",
+  "ciudad": "VILLETA",
+  "dpto": "25",
+  "cod_muni": "875",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25878",
+  "ciudad": "VIOTA",
+  "dpto": "25",
+  "cod_muni": "878",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25885",
+  "ciudad": "YACOPI",
+  "dpto": "25",
+  "cod_muni": "885",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25898",
+  "ciudad": "ZIPACON",
+  "dpto": "25",
+  "cod_muni": "898",
+  "iddpto": 11
+ },
+ {
+  "codigo": "25899",
+  "ciudad": "ZIPAQUIRA",
+  "dpto": "25",
+  "cod_muni": "899",
+  "iddpto": 11
+ },
+ {
+  "codigo": "27001",
+  "ciudad": "QUIBDO",
+  "dpto": "27",
+  "cod_muni": "001",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27006",
+  "ciudad": "ACANDI",
+  "dpto": "27",
+  "cod_muni": "006",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27025",
+  "ciudad": "ALTO BAUDO",
+  "dpto": "27",
+  "cod_muni": "025",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27050",
+  "ciudad": "ATRATO",
+  "dpto": "27",
+  "cod_muni": "050",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27073",
+  "ciudad": "BAGADO",
+  "dpto": "27",
+  "cod_muni": "073",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27075",
+  "ciudad": "BAHIA SOLANO",
+  "dpto": "27",
+  "cod_muni": "075",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27077",
+  "ciudad": "BAJO BAUDO",
+  "dpto": "27",
+  "cod_muni": "077",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27086",
+  "ciudad": "BELEN DE BAJIRA",
+  "dpto": "27",
+  "cod_muni": "086",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27099",
+  "ciudad": "BOJAYA",
+  "dpto": "27",
+  "cod_muni": "099",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27135",
+  "ciudad": "EL CANTON DEL SAN PABLO",
+  "dpto": "27",
+  "cod_muni": "135",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27150",
+  "ciudad": "CARMEN DEL DARIEN",
+  "dpto": "27",
+  "cod_muni": "150",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27160",
+  "ciudad": "CERTEGUI",
+  "dpto": "27",
+  "cod_muni": "160",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27205",
+  "ciudad": "CONDOTO",
+  "dpto": "27",
+  "cod_muni": "205",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27245",
+  "ciudad": "EL CARMEN DE ATRATO",
+  "dpto": "27",
+  "cod_muni": "245",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27250",
+  "ciudad": "EL LITORAL DEL SAN JUAN",
+  "dpto": "27",
+  "cod_muni": "250",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27361",
+  "ciudad": "ISTMINA",
+  "dpto": "27",
+  "cod_muni": "361",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27372",
+  "ciudad": "JURADO",
+  "dpto": "27",
+  "cod_muni": "372",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27413",
+  "ciudad": "LLORO",
+  "dpto": "27",
+  "cod_muni": "413",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27425",
+  "ciudad": "MEDIO ATRATO",
+  "dpto": "27",
+  "cod_muni": "425",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27430",
+  "ciudad": "MEDIO BAUDO",
+  "dpto": "27",
+  "cod_muni": "430",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27450",
+  "ciudad": "MEDIO SAN JUAN",
+  "dpto": "27",
+  "cod_muni": "450",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27491",
+  "ciudad": "NOVITA",
+  "dpto": "27",
+  "cod_muni": "491",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27495",
+  "ciudad": "NUQUI",
+  "dpto": "27",
+  "cod_muni": "495",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27580",
+  "ciudad": "RIO IRO",
+  "dpto": "27",
+  "cod_muni": "580",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27600",
+  "ciudad": "RIO QUITO",
+  "dpto": "27",
+  "cod_muni": "600",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27615",
+  "ciudad": "RIOSUCIO",
+  "dpto": "27",
+  "cod_muni": "615",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27660",
+  "ciudad": "SAN JOSE DEL PALMAR",
+  "dpto": "27",
+  "cod_muni": "660",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27745",
+  "ciudad": "SIPI",
+  "dpto": "27",
+  "cod_muni": "745",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27787",
+  "ciudad": "TADO",
+  "dpto": "27",
+  "cod_muni": "787",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27800",
+  "ciudad": "UNGUIA",
+  "dpto": "27",
+  "cod_muni": "800",
+  "iddpto": 12
+ },
+ {
+  "codigo": "27810",
+  "ciudad": "UNION PANAMERICANA",
+  "dpto": "27",
+  "cod_muni": "810",
+  "iddpto": 12
+ },
+ {
+  "codigo": "41001",
+  "ciudad": "NEIVA",
+  "dpto": "41",
+  "cod_muni": "001",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41006",
+  "ciudad": "ACEVEDO",
+  "dpto": "41",
+  "cod_muni": "006",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41013",
+  "ciudad": "AGRADO",
+  "dpto": "41",
+  "cod_muni": "013",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41016",
+  "ciudad": "AIPE",
+  "dpto": "41",
+  "cod_muni": "016",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41020",
+  "ciudad": "ALGECIRAS",
+  "dpto": "41",
+  "cod_muni": "020",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41026",
+  "ciudad": "ALTAMIRA",
+  "dpto": "41",
+  "cod_muni": "026",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41078",
+  "ciudad": "BARAYA",
+  "dpto": "41",
+  "cod_muni": "078",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41132",
+  "ciudad": "CAMPOALEGRE",
+  "dpto": "41",
+  "cod_muni": "132",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41206",
+  "ciudad": "COLOMBIA",
+  "dpto": "41",
+  "cod_muni": "206",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41244",
+  "ciudad": "ELIAS",
+  "dpto": "41",
+  "cod_muni": "244",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41298",
+  "ciudad": "GARZON",
+  "dpto": "41",
+  "cod_muni": "298",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41306",
+  "ciudad": "GIGANTE",
+  "dpto": "41",
+  "cod_muni": "306",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41319",
+  "ciudad": "GUADALUPE",
+  "dpto": "41",
+  "cod_muni": "319",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41349",
+  "ciudad": "HOBO",
+  "dpto": "41",
+  "cod_muni": "349",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41357",
+  "ciudad": "IQUIRA",
+  "dpto": "41",
+  "cod_muni": "357",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41359",
+  "ciudad": "ISNOS",
+  "dpto": "41",
+  "cod_muni": "359",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41378",
+  "ciudad": "LA ARGENTINA",
+  "dpto": "41",
+  "cod_muni": "378",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41396",
+  "ciudad": "LA PLATA",
+  "dpto": "41",
+  "cod_muni": "396",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41483",
+  "ciudad": "NATAGA",
+  "dpto": "41",
+  "cod_muni": "483",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41503",
+  "ciudad": "OPORAPA",
+  "dpto": "41",
+  "cod_muni": "503",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41518",
+  "ciudad": "PAICOL",
+  "dpto": "41",
+  "cod_muni": "518",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41524",
+  "ciudad": "PALERMO",
+  "dpto": "41",
+  "cod_muni": "524",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41530",
+  "ciudad": "PALESTINA",
+  "dpto": "41",
+  "cod_muni": "530",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41548",
+  "ciudad": "PITAL",
+  "dpto": "41",
+  "cod_muni": "548",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41551",
+  "ciudad": "PITALITO",
+  "dpto": "41",
+  "cod_muni": "551",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41615",
+  "ciudad": "RIVERA",
+  "dpto": "41",
+  "cod_muni": "615",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41660",
+  "ciudad": "SALADOBLANCO",
+  "dpto": "41",
+  "cod_muni": "660",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41668",
+  "ciudad": "SAN AGUSTIN",
+  "dpto": "41",
+  "cod_muni": "668",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41676",
+  "ciudad": "SANTA MARIA",
+  "dpto": "41",
+  "cod_muni": "676",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41770",
+  "ciudad": "SUAZA",
+  "dpto": "41",
+  "cod_muni": "770",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41791",
+  "ciudad": "TARQUI",
+  "dpto": "41",
+  "cod_muni": "791",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41797",
+  "ciudad": "TESALIA",
+  "dpto": "41",
+  "cod_muni": "797",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41799",
+  "ciudad": "TELLO",
+  "dpto": "41",
+  "cod_muni": "799",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41801",
+  "ciudad": "TERUEL",
+  "dpto": "41",
+  "cod_muni": "801",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41807",
+  "ciudad": "TIMANA",
+  "dpto": "41",
+  "cod_muni": "807",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41872",
+  "ciudad": "VILLAVIEJA",
+  "dpto": "41",
+  "cod_muni": "872",
+  "iddpto": 13
+ },
+ {
+  "codigo": "41885",
+  "ciudad": "YAGUARA",
+  "dpto": "41",
+  "cod_muni": "885",
+  "iddpto": 13
+ },
+ {
+  "codigo": "44001",
+  "ciudad": "RIOHACHA",
+  "dpto": "44",
+  "cod_muni": "001",
+  "iddpto": 14
+ },
+ {
+  "codigo": "44035",
+  "ciudad": "ALBANIA",
+  "dpto": "44",
+  "cod_muni": "035",
+  "iddpto": 14
+ },
+ {
+  "codigo": "44078",
+  "ciudad": "BARRANCAS",
+  "dpto": "44",
+  "cod_muni": "078",
+  "iddpto": 14
+ },
+ {
+  "codigo": "44090",
+  "ciudad": "DIBULLA",
+  "dpto": "44",
+  "cod_muni": "090",
+  "iddpto": 14
+ },
+ {
+  "codigo": "44098",
+  "ciudad": "DISTRACCION",
+  "dpto": "44",
+  "cod_muni": "098",
+  "iddpto": 14
+ },
+ {
+  "codigo": "44110",
+  "ciudad": "EL MOLINO",
+  "dpto": "44",
+  "cod_muni": "110",
+  "iddpto": 14
+ },
+ {
+  "codigo": "44279",
+  "ciudad": "FONSECA",
+  "dpto": "44",
+  "cod_muni": "279",
+  "iddpto": 14
+ },
+ {
+  "codigo": "44378",
+  "ciudad": "HATONUEVO",
+  "dpto": "44",
+  "cod_muni": "378",
+  "iddpto": 14
+ },
+ {
+  "codigo": "44420",
+  "ciudad": "LA JAGUA DEL PILAR",
+  "dpto": "44",
+  "cod_muni": "420",
+  "iddpto": 14
+ },
+ {
+  "codigo": "44430",
+  "ciudad": "MAICAO",
+  "dpto": "44",
+  "cod_muni": "430",
+  "iddpto": 14
+ },
+ {
+  "codigo": "44560",
+  "ciudad": "MANAURE",
+  "dpto": "44",
+  "cod_muni": "560",
+  "iddpto": 14
+ },
+ {
+  "codigo": "44650",
+  "ciudad": "SAN JUAN DEL CESAR",
+  "dpto": "44",
+  "cod_muni": "650",
+  "iddpto": 14
+ },
+ {
+  "codigo": "44847",
+  "ciudad": "URIBIA",
+  "dpto": "44",
+  "cod_muni": "847",
+  "iddpto": 14
+ },
+ {
+  "codigo": "44855",
+  "ciudad": "URUMITA",
+  "dpto": "44",
+  "cod_muni": "855",
+  "iddpto": 14
+ },
+ {
+  "codigo": "44874",
+  "ciudad": "VILLANUEVA",
+  "dpto": "44",
+  "cod_muni": "874",
+  "iddpto": 14
+ },
+ {
+  "codigo": "47001",
+  "ciudad": "SANTA MARTA",
+  "dpto": "47",
+  "cod_muni": "001",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47030",
+  "ciudad": "ALGARROBO",
+  "dpto": "47",
+  "cod_muni": "030",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47053",
+  "ciudad": "ARACATACA",
+  "dpto": "47",
+  "cod_muni": "053",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47058",
+  "ciudad": "ARIGUANI",
+  "dpto": "47",
+  "cod_muni": "058",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47161",
+  "ciudad": "CERRO SAN ANTONIO",
+  "dpto": "47",
+  "cod_muni": "161",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47170",
+  "ciudad": "CHIBOLO",
+  "dpto": "47",
+  "cod_muni": "170",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47189",
+  "ciudad": "CIENAGA",
+  "dpto": "47",
+  "cod_muni": "189",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47205",
+  "ciudad": "CONCORDIA",
+  "dpto": "47",
+  "cod_muni": "205",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47245",
+  "ciudad": "EL BANCO",
+  "dpto": "47",
+  "cod_muni": "245",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47258",
+  "ciudad": "EL PIÑON",
+  "dpto": "47",
+  "cod_muni": "258",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47268",
+  "ciudad": "EL RETEN",
+  "dpto": "47",
+  "cod_muni": "268",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47288",
+  "ciudad": "FUNDACION",
+  "dpto": "47",
+  "cod_muni": "288",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47318",
+  "ciudad": "GUAMAL",
+  "dpto": "47",
+  "cod_muni": "318",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47460",
+  "ciudad": "NUEVA GRANADA",
+  "dpto": "47",
+  "cod_muni": "460",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47541",
+  "ciudad": "PEDRAZA",
+  "dpto": "47",
+  "cod_muni": "541",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47545",
+  "ciudad": "PIJIÑO DEL CARMEN",
+  "dpto": "47",
+  "cod_muni": "545",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47551",
+  "ciudad": "PIVIJAY",
+  "dpto": "47",
+  "cod_muni": "551",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47555",
+  "ciudad": "PLATO",
+  "dpto": "47",
+  "cod_muni": "555",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47570",
+  "ciudad": "PUEBLOVIEJO",
+  "dpto": "47",
+  "cod_muni": "570",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47605",
+  "ciudad": "REMOLINO",
+  "dpto": "47",
+  "cod_muni": "605",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47660",
+  "ciudad": "SABANAS DE SAN ANGEL",
+  "dpto": "47",
+  "cod_muni": "660",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47675",
+  "ciudad": "SALAMINA",
+  "dpto": "47",
+  "cod_muni": "675",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47692",
+  "ciudad": "SAN SEBASTIAN DE BUENAVISTA",
+  "dpto": "47",
+  "cod_muni": "692",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47703",
+  "ciudad": "SAN ZENON",
+  "dpto": "47",
+  "cod_muni": "703",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47707",
+  "ciudad": "SANTA ANA",
+  "dpto": "47",
+  "cod_muni": "707",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47720",
+  "ciudad": "SANTA BARBARA DE PINTO",
+  "dpto": "47",
+  "cod_muni": "720",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47745",
+  "ciudad": "SITIONUEVO",
+  "dpto": "47",
+  "cod_muni": "745",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47798",
+  "ciudad": "TENERIFE",
+  "dpto": "47",
+  "cod_muni": "798",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47960",
+  "ciudad": "ZAPAYAN",
+  "dpto": "47",
+  "cod_muni": "960",
+  "iddpto": 15
+ },
+ {
+  "codigo": "47980",
+  "ciudad": "ZONA BANANERA",
+  "dpto": "47",
+  "cod_muni": "980",
+  "iddpto": 15
+ },
+ {
+  "codigo": "50001",
+  "ciudad": "VILLAVICENCIO",
+  "dpto": "50",
+  "cod_muni": "001",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50006",
+  "ciudad": "ACACIAS",
+  "dpto": "50",
+  "cod_muni": "006",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50110",
+  "ciudad": "BARRANCA DE UPIA",
+  "dpto": "50",
+  "cod_muni": "110",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50124",
+  "ciudad": "CABUYARO",
+  "dpto": "50",
+  "cod_muni": "124",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50150",
+  "ciudad": "CASTILLA LA NUEVA",
+  "dpto": "50",
+  "cod_muni": "150",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50223",
+  "ciudad": "CUBARRAL",
+  "dpto": "50",
+  "cod_muni": "223",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50226",
+  "ciudad": "CUMARAL",
+  "dpto": "50",
+  "cod_muni": "226",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50245",
+  "ciudad": "EL CALVARIO",
+  "dpto": "50",
+  "cod_muni": "245",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50251",
+  "ciudad": "EL CASTILLO",
+  "dpto": "50",
+  "cod_muni": "251",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50270",
+  "ciudad": "EL DORADO",
+  "dpto": "50",
+  "cod_muni": "270",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50287",
+  "ciudad": "FUENTE DE ORO",
+  "dpto": "50",
+  "cod_muni": "287",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50313",
+  "ciudad": "GRANADA",
+  "dpto": "50",
+  "cod_muni": "313",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50318",
+  "ciudad": "GUAMAL",
+  "dpto": "50",
+  "cod_muni": "318",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50325",
+  "ciudad": "MAPIRIPAN",
+  "dpto": "50",
+  "cod_muni": "325",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50330",
+  "ciudad": "MESETAS",
+  "dpto": "50",
+  "cod_muni": "330",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50350",
+  "ciudad": "LA MACARENA",
+  "dpto": "50",
+  "cod_muni": "350",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50370",
+  "ciudad": "URIBE",
+  "dpto": "50",
+  "cod_muni": "370",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50400",
+  "ciudad": "LEJANIAS",
+  "dpto": "50",
+  "cod_muni": "400",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50450",
+  "ciudad": "PUERTO CONCORDIA",
+  "dpto": "50",
+  "cod_muni": "450",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50568",
+  "ciudad": "PUERTO GAITAN",
+  "dpto": "50",
+  "cod_muni": "568",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50573",
+  "ciudad": "PUERTO LOPEZ",
+  "dpto": "50",
+  "cod_muni": "573",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50577",
+  "ciudad": "PUERTO LLERAS",
+  "dpto": "50",
+  "cod_muni": "577",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50590",
+  "ciudad": "PUERTO RICO",
+  "dpto": "50",
+  "cod_muni": "590",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50606",
+  "ciudad": "RESTREPO",
+  "dpto": "50",
+  "cod_muni": "606",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50680",
+  "ciudad": "SAN CARLOS DE GUAROA",
+  "dpto": "50",
+  "cod_muni": "680",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50683",
+  "ciudad": "SAN JUAN DE ARAMA",
+  "dpto": "50",
+  "cod_muni": "683",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50686",
+  "ciudad": "SAN JUANITO",
+  "dpto": "50",
+  "cod_muni": "686",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50689",
+  "ciudad": "SAN MARTIN",
+  "dpto": "50",
+  "cod_muni": "689",
+  "iddpto": 16
+ },
+ {
+  "codigo": "50711",
+  "ciudad": "VISTAHERMOSA",
+  "dpto": "50",
+  "cod_muni": "711",
+  "iddpto": 16
+ },
+ {
+  "codigo": "52001",
+  "ciudad": "PASTO",
+  "dpto": "52",
+  "cod_muni": "001",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52019",
+  "ciudad": "ALBAN",
+  "dpto": "52",
+  "cod_muni": "019",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52022",
+  "ciudad": "ALDANA",
+  "dpto": "52",
+  "cod_muni": "022",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52036",
+  "ciudad": "ANCUYA",
+  "dpto": "52",
+  "cod_muni": "036",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52051",
+  "ciudad": "ARBOLEDA",
+  "dpto": "52",
+  "cod_muni": "051",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52079",
+  "ciudad": "BARBACOAS",
+  "dpto": "52",
+  "cod_muni": "079",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52083",
+  "ciudad": "BELEN",
+  "dpto": "52",
+  "cod_muni": "083",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52110",
+  "ciudad": "BUESACO",
+  "dpto": "52",
+  "cod_muni": "110",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52203",
+  "ciudad": "COLON",
+  "dpto": "52",
+  "cod_muni": "203",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52207",
+  "ciudad": "CONSACA",
+  "dpto": "52",
+  "cod_muni": "207",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52210",
+  "ciudad": "CONTADERO",
+  "dpto": "52",
+  "cod_muni": "210",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52215",
+  "ciudad": "CORDOBA",
+  "dpto": "52",
+  "cod_muni": "215",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52224",
+  "ciudad": "CUASPUD",
+  "dpto": "52",
+  "cod_muni": "224",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52227",
+  "ciudad": "CUMBAL",
+  "dpto": "52",
+  "cod_muni": "227",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52233",
+  "ciudad": "CUMBITARA",
+  "dpto": "52",
+  "cod_muni": "233",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52240",
+  "ciudad": "CHACHAGUI",
+  "dpto": "52",
+  "cod_muni": "240",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52250",
+  "ciudad": "EL CHARCO",
+  "dpto": "52",
+  "cod_muni": "250",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52254",
+  "ciudad": "EL PEÑOL",
+  "dpto": "52",
+  "cod_muni": "254",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52256",
+  "ciudad": "EL ROSARIO",
+  "dpto": "52",
+  "cod_muni": "256",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52258",
+  "ciudad": "EL TABLON DE GOMEZ",
+  "dpto": "52",
+  "cod_muni": "258",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52260",
+  "ciudad": "EL TAMBO",
+  "dpto": "52",
+  "cod_muni": "260",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52287",
+  "ciudad": "FUNES",
+  "dpto": "52",
+  "cod_muni": "287",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52317",
+  "ciudad": "GUACHUCAL",
+  "dpto": "52",
+  "cod_muni": "317",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52320",
+  "ciudad": "GUAITARILLA",
+  "dpto": "52",
+  "cod_muni": "320",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52323",
+  "ciudad": "GUALMATAN",
+  "dpto": "52",
+  "cod_muni": "323",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52352",
+  "ciudad": "ILES",
+  "dpto": "52",
+  "cod_muni": "352",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52354",
+  "ciudad": "IMUES",
+  "dpto": "52",
+  "cod_muni": "354",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52356",
+  "ciudad": "IPIALES",
+  "dpto": "52",
+  "cod_muni": "356",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52378",
+  "ciudad": "LA CRUZ",
+  "dpto": "52",
+  "cod_muni": "378",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52381",
+  "ciudad": "LA FLORIDA",
+  "dpto": "52",
+  "cod_muni": "381",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52385",
+  "ciudad": "LA LLANADA",
+  "dpto": "52",
+  "cod_muni": "385",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52390",
+  "ciudad": "LA TOLA",
+  "dpto": "52",
+  "cod_muni": "390",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52399",
+  "ciudad": "LA UNION",
+  "dpto": "52",
+  "cod_muni": "399",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52405",
+  "ciudad": "LEIVA",
+  "dpto": "52",
+  "cod_muni": "405",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52411",
+  "ciudad": "LINARES",
+  "dpto": "52",
+  "cod_muni": "411",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52418",
+  "ciudad": "LOS ANDES",
+  "dpto": "52",
+  "cod_muni": "418",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52427",
+  "ciudad": "MAGUI",
+  "dpto": "52",
+  "cod_muni": "427",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52435",
+  "ciudad": "MALLAMA",
+  "dpto": "52",
+  "cod_muni": "435",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52473",
+  "ciudad": "MOSQUERA",
+  "dpto": "52",
+  "cod_muni": "473",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52480",
+  "ciudad": "NARIÑO",
+  "dpto": "52",
+  "cod_muni": "480",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52490",
+  "ciudad": "OLAYA HERRERA",
+  "dpto": "52",
+  "cod_muni": "490",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52506",
+  "ciudad": "OSPINA",
+  "dpto": "52",
+  "cod_muni": "506",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52520",
+  "ciudad": "FRANCISCO PIZARRO",
+  "dpto": "52",
+  "cod_muni": "520",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52540",
+  "ciudad": "POLICARPA",
+  "dpto": "52",
+  "cod_muni": "540",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52560",
+  "ciudad": "POTOSI",
+  "dpto": "52",
+  "cod_muni": "560",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52565",
+  "ciudad": "PROVIDENCIA",
+  "dpto": "52",
+  "cod_muni": "565",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52573",
+  "ciudad": "PUERRES",
+  "dpto": "52",
+  "cod_muni": "573",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52585",
+  "ciudad": "PUPIALES",
+  "dpto": "52",
+  "cod_muni": "585",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52612",
+  "ciudad": "RICAURTE",
+  "dpto": "52",
+  "cod_muni": "612",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52621",
+  "ciudad": "ROBERTO PAYAN",
+  "dpto": "52",
+  "cod_muni": "621",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52678",
+  "ciudad": "SAMANIEGO",
+  "dpto": "52",
+  "cod_muni": "678",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52683",
+  "ciudad": "SANDONA",
+  "dpto": "52",
+  "cod_muni": "683",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52685",
+  "ciudad": "SAN BERNARDO",
+  "dpto": "52",
+  "cod_muni": "685",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52687",
+  "ciudad": "SAN LORENZO",
+  "dpto": "52",
+  "cod_muni": "687",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52693",
+  "ciudad": "SAN PABLO",
+  "dpto": "52",
+  "cod_muni": "693",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52694",
+  "ciudad": "SAN PEDRO DE CARTAGO",
+  "dpto": "52",
+  "cod_muni": "694",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52696",
+  "ciudad": "SANTA BARBARA",
+  "dpto": "52",
+  "cod_muni": "696",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52699",
+  "ciudad": "SANTACRUZ",
+  "dpto": "52",
+  "cod_muni": "699",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52720",
+  "ciudad": "SAPUYES",
+  "dpto": "52",
+  "cod_muni": "720",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52786",
+  "ciudad": "TAMINANGO",
+  "dpto": "52",
+  "cod_muni": "786",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52788",
+  "ciudad": "TANGUA",
+  "dpto": "52",
+  "cod_muni": "788",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52835",
+  "ciudad": "TUMACO",
+  "dpto": "52",
+  "cod_muni": "835",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52838",
+  "ciudad": "TUQUERRES",
+  "dpto": "52",
+  "cod_muni": "838",
+  "iddpto": 17
+ },
+ {
+  "codigo": "52885",
+  "ciudad": "YACUANQUER",
+  "dpto": "52",
+  "cod_muni": "885",
+  "iddpto": 17
+ },
+ {
+  "codigo": "54001",
+  "ciudad": "CUCUTA",
+  "dpto": "54",
+  "cod_muni": "001",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54003",
+  "ciudad": "ABREGO",
+  "dpto": "54",
+  "cod_muni": "003",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54051",
+  "ciudad": "ARBOLEDAS",
+  "dpto": "54",
+  "cod_muni": "051",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54099",
+  "ciudad": "BOCHALEMA",
+  "dpto": "54",
+  "cod_muni": "099",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54109",
+  "ciudad": "BUCARASICA",
+  "dpto": "54",
+  "cod_muni": "109",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54125",
+  "ciudad": "CACOTA",
+  "dpto": "54",
+  "cod_muni": "125",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54128",
+  "ciudad": "CACHIRA",
+  "dpto": "54",
+  "cod_muni": "128",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54172",
+  "ciudad": "CHINACOTA",
+  "dpto": "54",
+  "cod_muni": "172",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54174",
+  "ciudad": "CHITAGA",
+  "dpto": "54",
+  "cod_muni": "174",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54206",
+  "ciudad": "CONVENCION",
+  "dpto": "54",
+  "cod_muni": "206",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54223",
+  "ciudad": "CUCUTILLA",
+  "dpto": "54",
+  "cod_muni": "223",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54239",
+  "ciudad": "DURANIA",
+  "dpto": "54",
+  "cod_muni": "239",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54245",
+  "ciudad": "EL CARMEN",
+  "dpto": "54",
+  "cod_muni": "245",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54250",
+  "ciudad": "EL TARRA",
+  "dpto": "54",
+  "cod_muni": "250",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54261",
+  "ciudad": "EL ZULIA",
+  "dpto": "54",
+  "cod_muni": "261",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54313",
+  "ciudad": "GRAMALOTE",
+  "dpto": "54",
+  "cod_muni": "313",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54344",
+  "ciudad": "HACARI",
+  "dpto": "54",
+  "cod_muni": "344",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54347",
+  "ciudad": "HERRAN",
+  "dpto": "54",
+  "cod_muni": "347",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54377",
+  "ciudad": "LABATECA",
+  "dpto": "54",
+  "cod_muni": "377",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54385",
+  "ciudad": "LA ESPERANZA",
+  "dpto": "54",
+  "cod_muni": "385",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54398",
+  "ciudad": "LA PLAYA",
+  "dpto": "54",
+  "cod_muni": "398",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54405",
+  "ciudad": "LOS PATIOS",
+  "dpto": "54",
+  "cod_muni": "405",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54418",
+  "ciudad": "LOURDES",
+  "dpto": "54",
+  "cod_muni": "418",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54480",
+  "ciudad": "MUTISCUA",
+  "dpto": "54",
+  "cod_muni": "480",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54498",
+  "ciudad": "OCAÑA",
+  "dpto": "54",
+  "cod_muni": "498",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54518",
+  "ciudad": "PAMPLONA",
+  "dpto": "54",
+  "cod_muni": "518",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54520",
+  "ciudad": "PAMPLONITA",
+  "dpto": "54",
+  "cod_muni": "520",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54553",
+  "ciudad": "PUERTO SANTANDER",
+  "dpto": "54",
+  "cod_muni": "553",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54599",
+  "ciudad": "RAGONVALIA",
+  "dpto": "54",
+  "cod_muni": "599",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54660",
+  "ciudad": "SALAZAR",
+  "dpto": "54",
+  "cod_muni": "660",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54670",
+  "ciudad": "SAN CALIXTO",
+  "dpto": "54",
+  "cod_muni": "670",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54673",
+  "ciudad": "SAN CAYETANO",
+  "dpto": "54",
+  "cod_muni": "673",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54680",
+  "ciudad": "SANTIAGO",
+  "dpto": "54",
+  "cod_muni": "680",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54720",
+  "ciudad": "SARDINATA",
+  "dpto": "54",
+  "cod_muni": "720",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54743",
+  "ciudad": "SILOS",
+  "dpto": "54",
+  "cod_muni": "743",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54800",
+  "ciudad": "TEORAMA",
+  "dpto": "54",
+  "cod_muni": "800",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54810",
+  "ciudad": "TIBU",
+  "dpto": "54",
+  "cod_muni": "810",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54820",
+  "ciudad": "TOLEDO",
+  "dpto": "54",
+  "cod_muni": "820",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54871",
+  "ciudad": "VILLA CARO",
+  "dpto": "54",
+  "cod_muni": "871",
+  "iddpto": 18
+ },
+ {
+  "codigo": "54874",
+  "ciudad": "VILLA DEL ROSARIO",
+  "dpto": "54",
+  "cod_muni": "874",
+  "iddpto": 18
+ },
+ {
+  "codigo": "63001",
+  "ciudad": "ARMENIA",
+  "dpto": "63",
+  "cod_muni": "001",
+  "iddpto": 19
+ },
+ {
+  "codigo": "63111",
+  "ciudad": "BUENAVISTA",
+  "dpto": "63",
+  "cod_muni": "111",
+  "iddpto": 19
+ },
+ {
+  "codigo": "63130",
+  "ciudad": "CALARCA",
+  "dpto": "63",
+  "cod_muni": "130",
+  "iddpto": 19
+ },
+ {
+  "codigo": "63190",
+  "ciudad": "CIRCASIA",
+  "dpto": "63",
+  "cod_muni": "190",
+  "iddpto": 19
+ },
+ {
+  "codigo": "63212",
+  "ciudad": "CORDOBA",
+  "dpto": "63",
+  "cod_muni": "212",
+  "iddpto": 19
+ },
+ {
+  "codigo": "63272",
+  "ciudad": "FILANDIA",
+  "dpto": "63",
+  "cod_muni": "272",
+  "iddpto": 19
+ },
+ {
+  "codigo": "63302",
+  "ciudad": "GENOVA",
+  "dpto": "63",
+  "cod_muni": "302",
+  "iddpto": 19
+ },
+ {
+  "codigo": "63401",
+  "ciudad": "LA TEBAIDA",
+  "dpto": "63",
+  "cod_muni": "401",
+  "iddpto": 19
+ },
+ {
+  "codigo": "63470",
+  "ciudad": "MONTENEGRO",
+  "dpto": "63",
+  "cod_muni": "470",
+  "iddpto": 19
+ },
+ {
+  "codigo": "63548",
+  "ciudad": "PIJAO",
+  "dpto": "63",
+  "cod_muni": "548",
+  "iddpto": 19
+ },
+ {
+  "codigo": "63594",
+  "ciudad": "QUIMBAYA",
+  "dpto": "63",
+  "cod_muni": "594",
+  "iddpto": 19
+ },
+ {
+  "codigo": "63690",
+  "ciudad": "SALENTO",
+  "dpto": "63",
+  "cod_muni": "690",
+  "iddpto": 19
+ },
+ {
+  "codigo": "66001",
+  "ciudad": "PEREIRA",
+  "dpto": "66",
+  "cod_muni": "001",
+  "iddpto": 20
+ },
+ {
+  "codigo": "66045",
+  "ciudad": "APIA",
+  "dpto": "66",
+  "cod_muni": "045",
+  "iddpto": 20
+ },
+ {
+  "codigo": "66075",
+  "ciudad": "BALBOA",
+  "dpto": "66",
+  "cod_muni": "075",
+  "iddpto": 20
+ },
+ {
+  "codigo": "66088",
+  "ciudad": "BELEN DE UMBRIA",
+  "dpto": "66",
+  "cod_muni": "088",
+  "iddpto": 20
+ },
+ {
+  "codigo": "66170",
+  "ciudad": "DOSQUEBRADAS",
+  "dpto": "66",
+  "cod_muni": "170",
+  "iddpto": 20
+ },
+ {
+  "codigo": "66318",
+  "ciudad": "GUATICA",
+  "dpto": "66",
+  "cod_muni": "318",
+  "iddpto": 20
+ },
+ {
+  "codigo": "66383",
+  "ciudad": "LA CELIA",
+  "dpto": "66",
+  "cod_muni": "383",
+  "iddpto": 20
+ },
+ {
+  "codigo": "66400",
+  "ciudad": "LA VIRGINIA",
+  "dpto": "66",
+  "cod_muni": "400",
+  "iddpto": 20
+ },
+ {
+  "codigo": "66440",
+  "ciudad": "MARSELLA",
+  "dpto": "66",
+  "cod_muni": "440",
+  "iddpto": 20
+ },
+ {
+  "codigo": "66456",
+  "ciudad": "MISTRATO",
+  "dpto": "66",
+  "cod_muni": "456",
+  "iddpto": 20
+ },
+ {
+  "codigo": "66572",
+  "ciudad": "PUEBLO RICO",
+  "dpto": "66",
+  "cod_muni": "572",
+  "iddpto": 20
+ },
+ {
+  "codigo": "66594",
+  "ciudad": "QUINCHIA",
+  "dpto": "66",
+  "cod_muni": "594",
+  "iddpto": 20
+ },
+ {
+  "codigo": "66682",
+  "ciudad": "SANTA ROSA DE CABAL",
+  "dpto": "66",
+  "cod_muni": "682",
+  "iddpto": 20
+ },
+ {
+  "codigo": "66687",
+  "ciudad": "SANTUARIO",
+  "dpto": "66",
+  "cod_muni": "687",
+  "iddpto": 20
+ },
+ {
+  "codigo": "68001",
+  "ciudad": "BUCARAMANGA",
+  "dpto": "68",
+  "cod_muni": "001",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68013",
+  "ciudad": "AGUADA",
+  "dpto": "68",
+  "cod_muni": "013",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68020",
+  "ciudad": "ALBANIA",
+  "dpto": "68",
+  "cod_muni": "020",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68051",
+  "ciudad": "ARATOCA",
+  "dpto": "68",
+  "cod_muni": "051",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68077",
+  "ciudad": "BARBOSA",
+  "dpto": "68",
+  "cod_muni": "077",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68079",
+  "ciudad": "BARICHARA",
+  "dpto": "68",
+  "cod_muni": "079",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68081",
+  "ciudad": "BARRANCABERMEJA",
+  "dpto": "68",
+  "cod_muni": "081",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68092",
+  "ciudad": "BETULIA",
+  "dpto": "68",
+  "cod_muni": "092",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68101",
+  "ciudad": "BOLIVAR",
+  "dpto": "68",
+  "cod_muni": "101",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68121",
+  "ciudad": "CABRERA",
+  "dpto": "68",
+  "cod_muni": "121",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68132",
+  "ciudad": "CALIFORNIA",
+  "dpto": "68",
+  "cod_muni": "132",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68147",
+  "ciudad": "CAPITANEJO",
+  "dpto": "68",
+  "cod_muni": "147",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68152",
+  "ciudad": "CARCASI",
+  "dpto": "68",
+  "cod_muni": "152",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68160",
+  "ciudad": "CEPITA",
+  "dpto": "68",
+  "cod_muni": "160",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68162",
+  "ciudad": "CERRITO",
+  "dpto": "68",
+  "cod_muni": "162",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68167",
+  "ciudad": "CHARALA",
+  "dpto": "68",
+  "cod_muni": "167",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68169",
+  "ciudad": "CHARTA",
+  "dpto": "68",
+  "cod_muni": "169",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68176",
+  "ciudad": "CHIMA",
+  "dpto": "68",
+  "cod_muni": "176",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68179",
+  "ciudad": "CHIPATA",
+  "dpto": "68",
+  "cod_muni": "179",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68190",
+  "ciudad": "CIMITARRA",
+  "dpto": "68",
+  "cod_muni": "190",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68207",
+  "ciudad": "CONCEPCION",
+  "dpto": "68",
+  "cod_muni": "207",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68209",
+  "ciudad": "CONFINES",
+  "dpto": "68",
+  "cod_muni": "209",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68211",
+  "ciudad": "CONTRATACION",
+  "dpto": "68",
+  "cod_muni": "211",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68217",
+  "ciudad": "COROMORO",
+  "dpto": "68",
+  "cod_muni": "217",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68229",
+  "ciudad": "CURITI",
+  "dpto": "68",
+  "cod_muni": "229",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68235",
+  "ciudad": "EL CARMEN DE CHUCURI",
+  "dpto": "68",
+  "cod_muni": "235",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68245",
+  "ciudad": "EL GUACAMAYO",
+  "dpto": "68",
+  "cod_muni": "245",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68250",
+  "ciudad": "EL PEÑON",
+  "dpto": "68",
+  "cod_muni": "250",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68255",
+  "ciudad": "EL PLAYON",
+  "dpto": "68",
+  "cod_muni": "255",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68264",
+  "ciudad": "ENCINO",
+  "dpto": "68",
+  "cod_muni": "264",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68266",
+  "ciudad": "ENCISO",
+  "dpto": "68",
+  "cod_muni": "266",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68271",
+  "ciudad": "FLORIAN",
+  "dpto": "68",
+  "cod_muni": "271",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68276",
+  "ciudad": "FLORIDABLANCA",
+  "dpto": "68",
+  "cod_muni": "276",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68296",
+  "ciudad": "GALAN",
+  "dpto": "68",
+  "cod_muni": "296",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68298",
+  "ciudad": "GAMBITA",
+  "dpto": "68",
+  "cod_muni": "298",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68307",
+  "ciudad": "GIRON",
+  "dpto": "68",
+  "cod_muni": "307",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68318",
+  "ciudad": "GUACA",
+  "dpto": "68",
+  "cod_muni": "318",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68320",
+  "ciudad": "GUADALUPE",
+  "dpto": "68",
+  "cod_muni": "320",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68322",
+  "ciudad": "GUAPOTA",
+  "dpto": "68",
+  "cod_muni": "322",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68324",
+  "ciudad": "GUAVATA",
+  "dpto": "68",
+  "cod_muni": "324",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68327",
+  "ciudad": "GUEPSA",
+  "dpto": "68",
+  "cod_muni": "327",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68344",
+  "ciudad": "HATO",
+  "dpto": "68",
+  "cod_muni": "344",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68368",
+  "ciudad": "JESUS MARIA",
+  "dpto": "68",
+  "cod_muni": "368",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68370",
+  "ciudad": "JORDAN",
+  "dpto": "68",
+  "cod_muni": "370",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68377",
+  "ciudad": "LA BELLEZA",
+  "dpto": "68",
+  "cod_muni": "377",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68385",
+  "ciudad": "LANDAZURI",
+  "dpto": "68",
+  "cod_muni": "385",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68397",
+  "ciudad": "LA PAZ",
+  "dpto": "68",
+  "cod_muni": "397",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68406",
+  "ciudad": "LEBRIJA",
+  "dpto": "68",
+  "cod_muni": "406",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68418",
+  "ciudad": "LOS SANTOS",
+  "dpto": "68",
+  "cod_muni": "418",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68425",
+  "ciudad": "MACARAVITA",
+  "dpto": "68",
+  "cod_muni": "425",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68432",
+  "ciudad": "MALAGA",
+  "dpto": "68",
+  "cod_muni": "432",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68444",
+  "ciudad": "MATANZA",
+  "dpto": "68",
+  "cod_muni": "444",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68464",
+  "ciudad": "MOGOTES",
+  "dpto": "68",
+  "cod_muni": "464",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68468",
+  "ciudad": "MOLAGAVITA",
+  "dpto": "68",
+  "cod_muni": "468",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68498",
+  "ciudad": "OCAMONTE",
+  "dpto": "68",
+  "cod_muni": "498",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68500",
+  "ciudad": "OIBA",
+  "dpto": "68",
+  "cod_muni": "500",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68502",
+  "ciudad": "ONZAGA",
+  "dpto": "68",
+  "cod_muni": "502",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68522",
+  "ciudad": "PALMAR",
+  "dpto": "68",
+  "cod_muni": "522",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68524",
+  "ciudad": "PALMAS DEL SOCORRO",
+  "dpto": "68",
+  "cod_muni": "524",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68533",
+  "ciudad": "PARAMO",
+  "dpto": "68",
+  "cod_muni": "533",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68547",
+  "ciudad": "PIEDECUESTA",
+  "dpto": "68",
+  "cod_muni": "547",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68549",
+  "ciudad": "PINCHOTE",
+  "dpto": "68",
+  "cod_muni": "549",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68572",
+  "ciudad": "PUENTE NACIONAL",
+  "dpto": "68",
+  "cod_muni": "572",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68573",
+  "ciudad": "PUERTO PARRA",
+  "dpto": "68",
+  "cod_muni": "573",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68575",
+  "ciudad": "PUERTO WILCHES",
+  "dpto": "68",
+  "cod_muni": "575",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68615",
+  "ciudad": "RIONEGRO",
+  "dpto": "68",
+  "cod_muni": "615",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68655",
+  "ciudad": "SABANA DE TORRES",
+  "dpto": "68",
+  "cod_muni": "655",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68669",
+  "ciudad": "SAN ANDRES",
+  "dpto": "68",
+  "cod_muni": "669",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68673",
+  "ciudad": "SAN BENITO",
+  "dpto": "68",
+  "cod_muni": "673",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68679",
+  "ciudad": "SAN GIL",
+  "dpto": "68",
+  "cod_muni": "679",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68682",
+  "ciudad": "SAN JOAQUIN",
+  "dpto": "68",
+  "cod_muni": "682",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68684",
+  "ciudad": "SAN JOSE DE MIRANDA",
+  "dpto": "68",
+  "cod_muni": "684",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68686",
+  "ciudad": "SAN MIGUEL",
+  "dpto": "68",
+  "cod_muni": "686",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68689",
+  "ciudad": "SAN VICENTE DE CHUCURI",
+  "dpto": "68",
+  "cod_muni": "689",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68705",
+  "ciudad": "SANTA BARBARA",
+  "dpto": "68",
+  "cod_muni": "705",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68720",
+  "ciudad": "SANTA HELENA DEL OPON",
+  "dpto": "68",
+  "cod_muni": "720",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68745",
+  "ciudad": "SIMACOTA",
+  "dpto": "68",
+  "cod_muni": "745",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68755",
+  "ciudad": "SOCORRO",
+  "dpto": "68",
+  "cod_muni": "755",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68770",
+  "ciudad": "SUAITA",
+  "dpto": "68",
+  "cod_muni": "770",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68773",
+  "ciudad": "SUCRE",
+  "dpto": "68",
+  "cod_muni": "773",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68780",
+  "ciudad": "SURATA",
+  "dpto": "68",
+  "cod_muni": "780",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68820",
+  "ciudad": "TONA",
+  "dpto": "68",
+  "cod_muni": "820",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68855",
+  "ciudad": "VALLE DE SAN JOSE",
+  "dpto": "68",
+  "cod_muni": "855",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68861",
+  "ciudad": "VELEZ",
+  "dpto": "68",
+  "cod_muni": "861",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68867",
+  "ciudad": "VETAS",
+  "dpto": "68",
+  "cod_muni": "867",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68872",
+  "ciudad": "VILLANUEVA",
+  "dpto": "68",
+  "cod_muni": "872",
+  "iddpto": 21
+ },
+ {
+  "codigo": "68895",
+  "ciudad": "ZAPATOCA",
+  "dpto": "68",
+  "cod_muni": "895",
+  "iddpto": 21
+ },
+ {
+  "codigo": "70001",
+  "ciudad": "SINCELEJO",
+  "dpto": "70",
+  "cod_muni": "001",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70110",
+  "ciudad": "BUENAVISTA",
+  "dpto": "70",
+  "cod_muni": "110",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70124",
+  "ciudad": "CAIMITO",
+  "dpto": "70",
+  "cod_muni": "124",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70204",
+  "ciudad": "COLOSO",
+  "dpto": "70",
+  "cod_muni": "204",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70215",
+  "ciudad": "COROZAL",
+  "dpto": "70",
+  "cod_muni": "215",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70221",
+  "ciudad": "COVEÑAS",
+  "dpto": "70",
+  "cod_muni": "221",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70230",
+  "ciudad": "CHALAN",
+  "dpto": "70",
+  "cod_muni": "230",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70233",
+  "ciudad": "EL ROBLE",
+  "dpto": "70",
+  "cod_muni": "233",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70235",
+  "ciudad": "GALERAS",
+  "dpto": "70",
+  "cod_muni": "235",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70265",
+  "ciudad": "GUARANDA",
+  "dpto": "70",
+  "cod_muni": "265",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70400",
+  "ciudad": "LA UNION",
+  "dpto": "70",
+  "cod_muni": "400",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70418",
+  "ciudad": "LOS PALMITOS",
+  "dpto": "70",
+  "cod_muni": "418",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70429",
+  "ciudad": "MAJAGUAL",
+  "dpto": "70",
+  "cod_muni": "429",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70473",
+  "ciudad": "MORROA",
+  "dpto": "70",
+  "cod_muni": "473",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70508",
+  "ciudad": "OVEJAS",
+  "dpto": "70",
+  "cod_muni": "508",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70523",
+  "ciudad": "PALMITO",
+  "dpto": "70",
+  "cod_muni": "523",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70670",
+  "ciudad": "SAMPUES",
+  "dpto": "70",
+  "cod_muni": "670",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70678",
+  "ciudad": "SAN BENITO ABAD",
+  "dpto": "70",
+  "cod_muni": "678",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70702",
+  "ciudad": "SAN JUAN DE BETULIA",
+  "dpto": "70",
+  "cod_muni": "702",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70708",
+  "ciudad": "SAN MARCOS",
+  "dpto": "70",
+  "cod_muni": "708",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70713",
+  "ciudad": "SAN ONOFRE",
+  "dpto": "70",
+  "cod_muni": "713",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70717",
+  "ciudad": "SAN PEDRO",
+  "dpto": "70",
+  "cod_muni": "717",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70742",
+  "ciudad": "SINCE",
+  "dpto": "70",
+  "cod_muni": "742",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70771",
+  "ciudad": "SUCRE",
+  "dpto": "70",
+  "cod_muni": "771",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70820",
+  "ciudad": "SANTIAGO DE TOLU",
+  "dpto": "70",
+  "cod_muni": "820",
+  "iddpto": 22
+ },
+ {
+  "codigo": "70823",
+  "ciudad": "TOLU VIEJO",
+  "dpto": "70",
+  "cod_muni": "823",
+  "iddpto": 22
+ },
+ {
+  "codigo": "73001",
+  "ciudad": "IBAGUE",
+  "dpto": "73",
+  "cod_muni": "001",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73024",
+  "ciudad": "ALPUJARRA",
+  "dpto": "73",
+  "cod_muni": "024",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73026",
+  "ciudad": "ALVARADO",
+  "dpto": "73",
+  "cod_muni": "026",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73030",
+  "ciudad": "AMBALEMA",
+  "dpto": "73",
+  "cod_muni": "030",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73043",
+  "ciudad": "ANZOATEGUI",
+  "dpto": "73",
+  "cod_muni": "043",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73055",
+  "ciudad": "ARMERO",
+  "dpto": "73",
+  "cod_muni": "055",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73067",
+  "ciudad": "ATACO",
+  "dpto": "73",
+  "cod_muni": "067",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73124",
+  "ciudad": "CAJAMARCA",
+  "dpto": "73",
+  "cod_muni": "124",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73148",
+  "ciudad": "CARMEN DE APICALA",
+  "dpto": "73",
+  "cod_muni": "148",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73152",
+  "ciudad": "CASABIANCA",
+  "dpto": "73",
+  "cod_muni": "152",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73168",
+  "ciudad": "CHAPARRAL",
+  "dpto": "73",
+  "cod_muni": "168",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73200",
+  "ciudad": "COELLO",
+  "dpto": "73",
+  "cod_muni": "200",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73217",
+  "ciudad": "COYAIMA",
+  "dpto": "73",
+  "cod_muni": "217",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73226",
+  "ciudad": "CUNDAY",
+  "dpto": "73",
+  "cod_muni": "226",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73236",
+  "ciudad": "DOLORES",
+  "dpto": "73",
+  "cod_muni": "236",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73268",
+  "ciudad": "ESPINAL",
+  "dpto": "73",
+  "cod_muni": "268",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73270",
+  "ciudad": "FALAN",
+  "dpto": "73",
+  "cod_muni": "270",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73275",
+  "ciudad": "FLANDES",
+  "dpto": "73",
+  "cod_muni": "275",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73283",
+  "ciudad": "FRESNO",
+  "dpto": "73",
+  "cod_muni": "283",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73319",
+  "ciudad": "GUAMO",
+  "dpto": "73",
+  "cod_muni": "319",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73347",
+  "ciudad": "HERVEO",
+  "dpto": "73",
+  "cod_muni": "347",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73349",
+  "ciudad": "HONDA",
+  "dpto": "73",
+  "cod_muni": "349",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73352",
+  "ciudad": "ICONONZO",
+  "dpto": "73",
+  "cod_muni": "352",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73408",
+  "ciudad": "LERIDA",
+  "dpto": "73",
+  "cod_muni": "408",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73411",
+  "ciudad": "LIBANO",
+  "dpto": "73",
+  "cod_muni": "411",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73443",
+  "ciudad": "MARIQUITA",
+  "dpto": "73",
+  "cod_muni": "443",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73449",
+  "ciudad": "MELGAR",
+  "dpto": "73",
+  "cod_muni": "449",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73461",
+  "ciudad": "MURILLO",
+  "dpto": "73",
+  "cod_muni": "461",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73483",
+  "ciudad": "NATAGAIMA",
+  "dpto": "73",
+  "cod_muni": "483",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73504",
+  "ciudad": "ORTEGA",
+  "dpto": "73",
+  "cod_muni": "504",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73520",
+  "ciudad": "PALOCABILDO",
+  "dpto": "73",
+  "cod_muni": "520",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73547",
+  "ciudad": "PIEDRAS",
+  "dpto": "73",
+  "cod_muni": "547",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73555",
+  "ciudad": "PLANADAS",
+  "dpto": "73",
+  "cod_muni": "555",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73563",
+  "ciudad": "PRADO",
+  "dpto": "73",
+  "cod_muni": "563",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73585",
+  "ciudad": "PURIFICACION",
+  "dpto": "73",
+  "cod_muni": "585",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73616",
+  "ciudad": "RIOBLANCO",
+  "dpto": "73",
+  "cod_muni": "616",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73622",
+  "ciudad": "RONCESVALLES",
+  "dpto": "73",
+  "cod_muni": "622",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73624",
+  "ciudad": "ROVIRA",
+  "dpto": "73",
+  "cod_muni": "624",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73671",
+  "ciudad": "SALDAÑA",
+  "dpto": "73",
+  "cod_muni": "671",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73675",
+  "ciudad": "SAN ANTONIO",
+  "dpto": "73",
+  "cod_muni": "675",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73678",
+  "ciudad": "SAN LUIS",
+  "dpto": "73",
+  "cod_muni": "678",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73686",
+  "ciudad": "SANTA ISABEL",
+  "dpto": "73",
+  "cod_muni": "686",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73770",
+  "ciudad": "SUAREZ",
+  "dpto": "73",
+  "cod_muni": "770",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73854",
+  "ciudad": "VALLE DE SAN JUAN",
+  "dpto": "73",
+  "cod_muni": "854",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73861",
+  "ciudad": "VENADILLO",
+  "dpto": "73",
+  "cod_muni": "861",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73870",
+  "ciudad": "VILLAHERMOSA",
+  "dpto": "73",
+  "cod_muni": "870",
+  "iddpto": 23
+ },
+ {
+  "codigo": "73873",
+  "ciudad": "VILLARRICA",
+  "dpto": "73",
+  "cod_muni": "873",
+  "iddpto": 23
+ },
+ {
+  "codigo": "76001",
+  "ciudad": "CALI",
+  "dpto": "76",
+  "cod_muni": "001",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76020",
+  "ciudad": "ALCALA",
+  "dpto": "76",
+  "cod_muni": "020",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76036",
+  "ciudad": "ANDALUCIA",
+  "dpto": "76",
+  "cod_muni": "036",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76041",
+  "ciudad": "ANSERMANUEVO",
+  "dpto": "76",
+  "cod_muni": "041",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76054",
+  "ciudad": "ARGELIA",
+  "dpto": "76",
+  "cod_muni": "054",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76100",
+  "ciudad": "BOLIVAR",
+  "dpto": "76",
+  "cod_muni": "100",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76109",
+  "ciudad": "BUENAVENTURA",
+  "dpto": "76",
+  "cod_muni": "109",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76111",
+  "ciudad": "GUADALAJARA DE BUGA",
+  "dpto": "76",
+  "cod_muni": "111",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76113",
+  "ciudad": "BUGALAGRANDE",
+  "dpto": "76",
+  "cod_muni": "113",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76122",
+  "ciudad": "CAICEDONIA",
+  "dpto": "76",
+  "cod_muni": "122",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76126",
+  "ciudad": "CALIMA",
+  "dpto": "76",
+  "cod_muni": "126",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76130",
+  "ciudad": "CANDELARIA",
+  "dpto": "76",
+  "cod_muni": "130",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76147",
+  "ciudad": "CARTAGO",
+  "dpto": "76",
+  "cod_muni": "147",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76233",
+  "ciudad": "DAGUA",
+  "dpto": "76",
+  "cod_muni": "233",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76243",
+  "ciudad": "EL AGUILA",
+  "dpto": "76",
+  "cod_muni": "243",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76246",
+  "ciudad": "EL CAIRO",
+  "dpto": "76",
+  "cod_muni": "246",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76248",
+  "ciudad": "EL CERRITO",
+  "dpto": "76",
+  "cod_muni": "248",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76250",
+  "ciudad": "EL DOVIO",
+  "dpto": "76",
+  "cod_muni": "250",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76275",
+  "ciudad": "FLORIDA",
+  "dpto": "76",
+  "cod_muni": "275",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76306",
+  "ciudad": "GINEBRA",
+  "dpto": "76",
+  "cod_muni": "306",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76318",
+  "ciudad": "GUACARI",
+  "dpto": "76",
+  "cod_muni": "318",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76364",
+  "ciudad": "JAMUNDI",
+  "dpto": "76",
+  "cod_muni": "364",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76377",
+  "ciudad": "LA CUMBRE",
+  "dpto": "76",
+  "cod_muni": "377",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76400",
+  "ciudad": "LA UNION",
+  "dpto": "76",
+  "cod_muni": "400",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76403",
+  "ciudad": "LA VICTORIA",
+  "dpto": "76",
+  "cod_muni": "403",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76497",
+  "ciudad": "OBANDO",
+  "dpto": "76",
+  "cod_muni": "497",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76520",
+  "ciudad": "PALMIRA",
+  "dpto": "76",
+  "cod_muni": "520",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76563",
+  "ciudad": "PRADERA",
+  "dpto": "76",
+  "cod_muni": "563",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76606",
+  "ciudad": "RESTREPO",
+  "dpto": "76",
+  "cod_muni": "606",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76616",
+  "ciudad": "RIOFRIO",
+  "dpto": "76",
+  "cod_muni": "616",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76622",
+  "ciudad": "ROLDANILLO",
+  "dpto": "76",
+  "cod_muni": "622",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76670",
+  "ciudad": "SAN PEDRO",
+  "dpto": "76",
+  "cod_muni": "670",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76736",
+  "ciudad": "SEVILLA",
+  "dpto": "76",
+  "cod_muni": "736",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76823",
+  "ciudad": "TORO",
+  "dpto": "76",
+  "cod_muni": "823",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76828",
+  "ciudad": "TRUJILLO",
+  "dpto": "76",
+  "cod_muni": "828",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76834",
+  "ciudad": "TULUA",
+  "dpto": "76",
+  "cod_muni": "834",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76845",
+  "ciudad": "ULLOA",
+  "dpto": "76",
+  "cod_muni": "845",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76863",
+  "ciudad": "VERSALLES",
+  "dpto": "76",
+  "cod_muni": "863",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76869",
+  "ciudad": "VIJES",
+  "dpto": "76",
+  "cod_muni": "869",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76890",
+  "ciudad": "YOTOCO",
+  "dpto": "76",
+  "cod_muni": "890",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76892",
+  "ciudad": "YUMBO",
+  "dpto": "76",
+  "cod_muni": "892",
+  "iddpto": 24
+ },
+ {
+  "codigo": "76895",
+  "ciudad": "ZARZAL",
+  "dpto": "76",
+  "cod_muni": "895",
+  "iddpto": 24
+ },
+ {
+  "codigo": "81001",
+  "ciudad": "ARAUCA",
+  "dpto": "81",
+  "cod_muni": "001",
+  "iddpto": 25
+ },
+ {
+  "codigo": "81065",
+  "ciudad": "ARAUQUITA",
+  "dpto": "81",
+  "cod_muni": "065",
+  "iddpto": 25
+ },
+ {
+  "codigo": "81220",
+  "ciudad": "CRAVO NORTE",
+  "dpto": "81",
+  "cod_muni": "220",
+  "iddpto": 25
+ },
+ {
+  "codigo": "81300",
+  "ciudad": "FORTUL",
+  "dpto": "81",
+  "cod_muni": "300",
+  "iddpto": 25
+ },
+ {
+  "codigo": "81591",
+  "ciudad": "PUERTO RONDON",
+  "dpto": "81",
+  "cod_muni": "591",
+  "iddpto": 25
+ },
+ {
+  "codigo": "81736",
+  "ciudad": "SARAVENA",
+  "dpto": "81",
+  "cod_muni": "736",
+  "iddpto": 25
+ },
+ {
+  "codigo": "81794",
+  "ciudad": "TAME",
+  "dpto": "81",
+  "cod_muni": "794",
+  "iddpto": 25
+ },
+ {
+  "codigo": "85001",
+  "ciudad": "YOPAL",
+  "dpto": "85",
+  "cod_muni": "001",
+  "iddpto": 26
+ },
+ {
+  "codigo": "85010",
+  "ciudad": "AGUAZUL",
+  "dpto": "85",
+  "cod_muni": "010",
+  "iddpto": 26
+ },
+ {
+  "codigo": "85015",
+  "ciudad": "CHAMEZA",
+  "dpto": "85",
+  "cod_muni": "015",
+  "iddpto": 26
+ },
+ {
+  "codigo": "85125",
+  "ciudad": "HATO COROZAL",
+  "dpto": "85",
+  "cod_muni": "125",
+  "iddpto": 26
+ },
+ {
+  "codigo": "85136",
+  "ciudad": "LA SALINA",
+  "dpto": "85",
+  "cod_muni": "136",
+  "iddpto": 26
+ },
+ {
+  "codigo": "85139",
+  "ciudad": "MANI",
+  "dpto": "85",
+  "cod_muni": "139",
+  "iddpto": 26
+ },
+ {
+  "codigo": "85162",
+  "ciudad": "MONTERREY",
+  "dpto": "85",
+  "cod_muni": "162",
+  "iddpto": 26
+ },
+ {
+  "codigo": "85225",
+  "ciudad": "NUNCHIA",
+  "dpto": "85",
+  "cod_muni": "225",
+  "iddpto": 26
+ },
+ {
+  "codigo": "85230",
+  "ciudad": "OROCUE",
+  "dpto": "85",
+  "cod_muni": "230",
+  "iddpto": 26
+ },
+ {
+  "codigo": "85250",
+  "ciudad": "PAZ DE ARIPORO",
+  "dpto": "85",
+  "cod_muni": "250",
+  "iddpto": 26
+ },
+ {
+  "codigo": "85263",
+  "ciudad": "PORE",
+  "dpto": "85",
+  "cod_muni": "263",
+  "iddpto": 26
+ },
+ {
+  "codigo": "85279",
+  "ciudad": "RECETOR",
+  "dpto": "85",
+  "cod_muni": "279",
+  "iddpto": 26
+ },
+ {
+  "codigo": "85300",
+  "ciudad": "SABANALARGA",
+  "dpto": "85",
+  "cod_muni": "300",
+  "iddpto": 26
+ },
+ {
+  "codigo": "85315",
+  "ciudad": "SACAMA",
+  "dpto": "85",
+  "cod_muni": "315",
+  "iddpto": 26
+ },
+ {
+  "codigo": "85325",
+  "ciudad": "SAN LUIS DE PALENQUE",
+  "dpto": "85",
+  "cod_muni": "325",
+  "iddpto": 26
+ },
+ {
+  "codigo": "85400",
+  "ciudad": "TAMARA",
+  "dpto": "85",
+  "cod_muni": "400",
+  "iddpto": 26
+ },
+ {
+  "codigo": "85410",
+  "ciudad": "TAURAMENA",
+  "dpto": "85",
+  "cod_muni": "410",
+  "iddpto": 26
+ },
+ {
+  "codigo": "85430",
+  "ciudad": "TRINIDAD",
+  "dpto": "85",
+  "cod_muni": "430",
+  "iddpto": 26
+ },
+ {
+  "codigo": "85440",
+  "ciudad": "VILLANUEVA",
+  "dpto": "85",
+  "cod_muni": "440",
+  "iddpto": 26
+ },
+ {
+  "codigo": "86001",
+  "ciudad": "MOCOA",
+  "dpto": "86",
+  "cod_muni": "001",
+  "iddpto": 27
+ },
+ {
+  "codigo": "86219",
+  "ciudad": "COLON",
+  "dpto": "86",
+  "cod_muni": "219",
+  "iddpto": 27
+ },
+ {
+  "codigo": "86320",
+  "ciudad": "ORITO",
+  "dpto": "86",
+  "cod_muni": "320",
+  "iddpto": 27
+ },
+ {
+  "codigo": "86568",
+  "ciudad": "PUERTO ASIS",
+  "dpto": "86",
+  "cod_muni": "568",
+  "iddpto": 27
+ },
+ {
+  "codigo": "86569",
+  "ciudad": "PUERTO CAICEDO",
+  "dpto": "86",
+  "cod_muni": "569",
+  "iddpto": 27
+ },
+ {
+  "codigo": "86571",
+  "ciudad": "PUERTO GUZMAN",
+  "dpto": "86",
+  "cod_muni": "571",
+  "iddpto": 27
+ },
+ {
+  "codigo": "86573",
+  "ciudad": "LEGUIZAMO",
+  "dpto": "86",
+  "cod_muni": "573",
+  "iddpto": 27
+ },
+ {
+  "codigo": "86749",
+  "ciudad": "SIBUNDOY",
+  "dpto": "86",
+  "cod_muni": "749",
+  "iddpto": 27
+ },
+ {
+  "codigo": "86755",
+  "ciudad": "SAN FRANCISCO",
+  "dpto": "86",
+  "cod_muni": "755",
+  "iddpto": 27
+ },
+ {
+  "codigo": "86757",
+  "ciudad": "SAN MIGUEL",
+  "dpto": "86",
+  "cod_muni": "757",
+  "iddpto": 27
+ },
+ {
+  "codigo": "86760",
+  "ciudad": "SANTIAGO",
+  "dpto": "86",
+  "cod_muni": "760",
+  "iddpto": 27
+ },
+ {
+  "codigo": "86865",
+  "ciudad": "VALLE DEL GUAMUEZ",
+  "dpto": "86",
+  "cod_muni": "865",
+  "iddpto": 27
+ },
+ {
+  "codigo": "86885",
+  "ciudad": "VILLAGARZON",
+  "dpto": "86",
+  "cod_muni": "885",
+  "iddpto": 27
+ },
+ {
+  "codigo": "88001",
+  "ciudad": "SAN ANDRES",
+  "dpto": "88",
+  "cod_muni": "001",
+  "iddpto": 28
+ },
+ {
+  "codigo": "88564",
+  "ciudad": "PROVIDENCIA",
+  "dpto": "88",
+  "cod_muni": "564",
+  "iddpto": 28
+ },
+ {
+  "codigo": "91001",
+  "ciudad": "LETICIA",
+  "dpto": "91",
+  "cod_muni": "001",
+  "iddpto": 29
+ },
+ {
+  "codigo": "91263",
+  "ciudad": "EL ENCANTO",
+  "dpto": "91",
+  "cod_muni": "263",
+  "iddpto": 29
+ },
+ {
+  "codigo": "91405",
+  "ciudad": "LA CHORRERA",
+  "dpto": "91",
+  "cod_muni": "405",
+  "iddpto": 29
+ },
+ {
+  "codigo": "91407",
+  "ciudad": "LA PEDRERA",
+  "dpto": "91",
+  "cod_muni": "407",
+  "iddpto": 29
+ },
+ {
+  "codigo": "91430",
+  "ciudad": "LA VICTORIA",
+  "dpto": "91",
+  "cod_muni": "430",
+  "iddpto": 29
+ },
+ {
+  "codigo": "91460",
+  "ciudad": "MIRITI",
+  "dpto": "91",
+  "cod_muni": "460",
+  "iddpto": 29
+ },
+ {
+  "codigo": "91530",
+  "ciudad": "PUERTO ALEGRIA",
+  "dpto": "91",
+  "cod_muni": "530",
+  "iddpto": 29
+ },
+ {
+  "codigo": "91536",
+  "ciudad": "PUERTO ARICA",
+  "dpto": "91",
+  "cod_muni": "536",
+  "iddpto": 29
+ },
+ {
+  "codigo": "91540",
+  "ciudad": "PUERTO NARIÑO",
+  "dpto": "91",
+  "cod_muni": "540",
+  "iddpto": 29
+ },
+ {
+  "codigo": "91669",
+  "ciudad": "PUERTO SANTANDER",
+  "dpto": "91",
+  "cod_muni": "669",
+  "iddpto": 29
+ },
+ {
+  "codigo": "91798",
+  "ciudad": "TARAPACA",
+  "dpto": "91",
+  "cod_muni": "798",
+  "iddpto": 29
+ },
+ {
+  "codigo": "94001",
+  "ciudad": "INIRIDA",
+  "dpto": "94",
+  "cod_muni": "001",
+  "iddpto": 30
+ },
+ {
+  "codigo": "94343",
+  "ciudad": "BARRANCO MINAS",
+  "dpto": "94",
+  "cod_muni": "343",
+  "iddpto": 30
+ },
+ {
+  "codigo": "94663",
+  "ciudad": "MAPIRIPANA",
+  "dpto": "94",
+  "cod_muni": "663",
+  "iddpto": 30
+ },
+ {
+  "codigo": "94883",
+  "ciudad": "SAN FELIPE",
+  "dpto": "94",
+  "cod_muni": "883",
+  "iddpto": 30
+ },
+ {
+  "codigo": "94884",
+  "ciudad": "PUERTO COLOMBIA",
+  "dpto": "94",
+  "cod_muni": "884",
+  "iddpto": 30
+ },
+ {
+  "codigo": "94885",
+  "ciudad": "LA GUADALUPE",
+  "dpto": "94",
+  "cod_muni": "885",
+  "iddpto": 30
+ },
+ {
+  "codigo": "94886",
+  "ciudad": "CACAHUAL",
+  "dpto": "94",
+  "cod_muni": "886",
+  "iddpto": 30
+ },
+ {
+  "codigo": "94887",
+  "ciudad": "PANA PANA",
+  "dpto": "94",
+  "cod_muni": "887",
+  "iddpto": 30
+ },
+ {
+  "codigo": "94888",
+  "ciudad": "MORICHAL",
+  "dpto": "94",
+  "cod_muni": "888",
+  "iddpto": 30
+ },
+ {
+  "codigo": "95001",
+  "ciudad": "SAN JOSE DEL GUAVIARE",
+  "dpto": "95",
+  "cod_muni": "001",
+  "iddpto": 31
+ },
+ {
+  "codigo": "95015",
+  "ciudad": "CALAMAR",
+  "dpto": "95",
+  "cod_muni": "015",
+  "iddpto": 31
+ },
+ {
+  "codigo": "95025",
+  "ciudad": "EL RETORNO",
+  "dpto": "95",
+  "cod_muni": "025",
+  "iddpto": 31
+ },
+ {
+  "codigo": "95200",
+  "ciudad": "MIRAFLORES",
+  "dpto": "95",
+  "cod_muni": "200",
+  "iddpto": 31
+ },
+ {
+  "codigo": "97001",
+  "ciudad": "MITU",
+  "dpto": "97",
+  "cod_muni": "001",
+  "iddpto": 32
+ },
+ {
+  "codigo": "97161",
+  "ciudad": "CARURU",
+  "dpto": "97",
+  "cod_muni": "161",
+  "iddpto": 32
+ },
+ {
+  "codigo": "97511",
+  "ciudad": "PACOA",
+  "dpto": "97",
+  "cod_muni": "511",
+  "iddpto": 32
+ },
+ {
+  "codigo": "97666",
+  "ciudad": "TARAIRA",
+  "dpto": "97",
+  "cod_muni": "666",
+  "iddpto": 32
+ },
+ {
+  "codigo": "97777",
+  "ciudad": "PAPUNAUA",
+  "dpto": "97",
+  "cod_muni": "777",
+  "iddpto": 32
+ },
+ {
+  "codigo": "97889",
+  "ciudad": "YAVARATE",
+  "dpto": "97",
+  "cod_muni": "889",
+  "iddpto": 32
+ },
+ {
+  "codigo": "99001",
+  "ciudad": "PUERTO CARREÑO",
+  "dpto": "99",
+  "cod_muni": "001",
+  "iddpto": 33
+ },
+ {
+  "codigo": "99524",
+  "ciudad": "LA PRIMAVERA",
+  "dpto": "99",
+  "cod_muni": "524",
+  "iddpto": 33
+ },
+ {
+  "codigo": "99624",
+  "ciudad": "SANTA ROSALIA",
+  "dpto": "99",
+  "cod_muni": "624",
+  "iddpto": 33
+ },
+ {
+  "codigo": "99773",
+  "ciudad": "CUMARIBO",
+  "dpto": "99",
+  "cod_muni": "773",
+  "iddpto": 33
+ }
+]

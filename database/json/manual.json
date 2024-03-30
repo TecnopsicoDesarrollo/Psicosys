@@ -1,0 +1,22 @@
+[
+ {
+  "manual": "ISS01",
+  "nombre": "TARIFA ISS 2001"
+ },
+ {
+  "manual": "ISS02",
+  "nombre": "TARIFA ISS 2002"
+ },
+ {
+  "manual": "ISS04",
+  "nombre": "TARIFA ISS 2004"
+ },
+ {
+  "manual": "SOAT",
+  "nombre": "TARIFA SOAT"
+ },
+ {
+  "manual": "PART",
+  "nombre": "PARTICULARES"
+ }
+]

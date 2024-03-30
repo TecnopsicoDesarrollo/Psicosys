@@ -1,0 +1,62 @@
+[
+ {
+  "codigo": "01",
+  "causaext": "ACCIDENTE DE TRABAJO"
+ },
+ {
+  "codigo": "02",
+  "causaext": "ACCIDENTE DE TRANSITO"
+ },
+ {
+  "codigo": "03",
+  "causaext": "ACCIDENTE RABICO"
+ },
+ {
+  "codigo": "04",
+  "causaext": "ACCIDENTE OFIDICO"
+ },
+ {
+  "codigo": "05",
+  "causaext": "OTRO TIPO DE ACCIDENTE"
+ },
+ {
+  "codigo": "06",
+  "causaext": "EVENTO CATASTROFICO"
+ },
+ {
+  "codigo": "07",
+  "causaext": "LESION POR AGRESION"
+ },
+ {
+  "codigo": "08",
+  "causaext": "LESION AUTO INFLIGIDA"
+ },
+ {
+  "codigo": "09",
+  "causaext": "SOSPECHA DE MALTRATO FISICO"
+ },
+ {
+  "codigo": "10",
+  "causaext": "SOSPECHA DE ABUSO SEXUAL"
+ },
+ {
+  "codigo": "11",
+  "causaext": "SOSPECHA DE VIOLENCIA SEXUAL"
+ },
+ {
+  "codigo": "12",
+  "causaext": "SOSPECHA DE MALTRATO EMOCIONAL"
+ },
+ {
+  "codigo": "13",
+  "causaext": "ENFERMEDAD GENERAL"
+ },
+ {
+  "codigo": "14",
+  "causaext": "ENFERMEDAD PROFESIONAL"
+ },
+ {
+  "codigo": "15",
+  "causaext": "OTRA"
+ }
+]
